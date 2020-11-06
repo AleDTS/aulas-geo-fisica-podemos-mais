@@ -1,0 +1,12 @@
+.reveal {
+    font-size: x-large;
+
+}
+
+.reveal .slides section, .reveal .slides section > section {
+    line-height: 1.6;
+}
+
+li {
+    margin-top: 1em;
+}
