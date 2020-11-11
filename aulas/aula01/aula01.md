@@ -6,12 +6,25 @@ date: 06/11/2020
 
 # Cartografia
 
-## Cartografia
+::: notes
+
+PARA IR ALÉM:
+
+- [IBGE | Atlas Escolar | conceitos gerais | o que é cartografia?](https://atlasescolar.ibge.gov.br/conceitos-gerais/o-que-e-cartografia)
+- [IBGE | Atlas Escolar | a terra | nosso planeta no universo](https://atlasescolar.ibge.gov.br/a-terra/nosso-planeta-no-universo)
+
+:::
+
+---
+
+## Projeções cartograficas
 
 Todo mapa revela uma determinada visão de mundo!
 
 :::: {.columns}
 ::: {.column}
+
+Projeção de Mercator
 
 ![](img/mercator.jpg){.stretch}
 
@@ -20,6 +33,9 @@ Todo mapa revela uma determinada visão de mundo!
 
 :::
 ::: {.column}
+
+Projeção de Peters
+
 ![](img/peters.jpg){.stretch}
 
 - Alterou fromas para manter proporção
@@ -28,20 +44,61 @@ Todo mapa revela uma determinada visão de mundo!
 :::
 ::::
 
+::: notes
+
+REFERÊNCIAS:
+
+- [Projeções de Mercator e Peters:
+Diferentes maneiras de ver o Mundo!](https://geoprofessora.blogspot.com/2008/09/mercator-x-peters.html)
+
+PARA IR ALÉM:
+
+- [[PodTerritorial] Professor da Unesp explica o que é Cartografia Geográfica Crítica](https://podcast.unesp.br/15548/podterritorial-professor-da-unesp-explica-o-que-e-cartografia-geografica-critica)
+
+:::
+
 ---
 
-https://www.youtube.com/watch?v=k5eL_al_m7Q
+### O "Hack" do Google Maps
+
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/k5eL_al_m7Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+::: notes
+
+REFERÊNCIAS:
+
+- [Google Maps Hacks (em inglês)](http://www.simonweckert.com/googlemapshacks.html)
+
+PARA IR ALÉM:
+
+- [Os territórios que o Google Maps esconde - Outras Palavras](https://outraspalavras.net/tecnologiaemdisputa/os-territorios-que-o-google-maps-esconde/)
+
+:::
 
 ---
-
 
 # Geomorfologia
 
+---
+
 ## Camadas da Terra
 
-- Núcleo (sólido - composto por ligas metálicas), manto (pastoso - rochas derreticas) e crosta (oceânica e continental).
+:::: {.columns}
+::: {.column width="60%"}
 
-<u>LITOSFERA</u>: Camada sólida mais externa constituída por rochas e solo e que sofre forças internas do manto e núcleo
+- **Núcleo**: sólido - composto por ligas metálicas;
+- **Manto**: pastoso - rochas derretidas;
+- **Crosta**: oceânica e continental.
+
+:::
+::: {.column width="40%"}
+
+![](img/camadas.png){.rt-stretch}
+
+:::
+::::
+
+<u>LITOSFERA</u>: Camada sólida mais externa constituída por rochas e solo e que sofre forças internas do manto e núcleo.
 
 ---
 
@@ -53,6 +110,14 @@ https://www.youtube.com/watch?v=k5eL_al_m7Q
 
 - Então, a pangeia começa a se fragmentar em **massas de terra** emersas.
 
+::: notes
+
+REFERÊNCIAS:
+
+- [IBGE | Atlas Escolar | a terra | formação dos continentes](https://atlasescolar.ibge.gov.br/a-terra/formacao-dos-continentes)
+
+:::
+
 ---
 
 ### Evidências
@@ -61,11 +126,21 @@ https://www.youtube.com/watch?v=k5eL_al_m7Q
 - Fósseis encontrados nos dois continentes que viveram na mesma época;
 - Formações rochosas coincidentes;
 
-![](/home/aledts/Desktop/aulas-geo-fisica-podemos+/aulas/aula01/img/continentes_1.gif){ .stretch }
+![](img/continentes_1.gif){.stretch}
 
 ---
 
 ![](img/pangea_mapa.jpg){.stretch}
+
+[Mapa da Pangeia mostra onde ficariam os países no supercontinente](https://www.nexojornal.com.br/expresso/2019/09/04/Este-mapa-mostra-onde-os-pa%C3%ADses-estariam-na-Pangeia)
+
+::: notes
+
+PARA IR ALÉM:
+
+- [Este mapa mostra como a superfície do planeta mudou em 600 milhões de anos](https://dinosaurpictures.org/ancient-earth#0) ([1](https://www.nexojornal.com.br/expresso/2018/05/14/Este-mapa-mostra-como-a-superf%C3%ADcie-do-planeta-mudou-em-600-milh%C3%B5es-de-anos), [2 (inglês)](https://www.smithsonianmag.com/smart-news/map-lets-you-plug-your-address-see-how-neighborhood-has-changed-over-past-750-million-years-180971507/))
+
+:::
 
 ---
 
@@ -106,7 +181,7 @@ https://www.youtube.com/watch?v=k5eL_al_m7Q
 
 ![](img/san_andreas.jpg){ .stretch }
 
-Falha de San Andreas
+[Falha de San Andreas](https://pt.wikipedia.org/wiki/Falha_de_Santo_Andr%C3%A9)
 
 ---
 
@@ -203,12 +278,28 @@ Falha de San Andreas
 - As **regiões áridas** possuem formas mais abruptas, causadas pela desagregação das rochas e chuvas fortes e irregulares. Ex.: sertão nordestino.
 - Os rios da grande rede hidrográfica brasileira são importantes agentes de erosão e sedimentação.
 
+::: notes
+
+PARA IR ALÉM:
+
+- [Terra moldada por cheias e queimadas](https://revistapesquisa.fapesp.br/terra-moldada-por-cheias-e-queimadas/) - Água e, em menor escala, fogo influenciam a distribuição e a diversidade de plantas no Pantanal
+
+:::
+
 ---
 
 - Relevos predonimantes: **planaltos**, **planícies** e **depressões relativas**.
 - Alguns específicos: **serras** (dobramentos, escarpas de planaltos); **chapadas** (planalto sedimentar, de topo plano e encontas escarpadas); **inselbergs** (saliências rochosas em regiões de clima mais árido); **cuestas** (um lado escarpado e outro com declive suave).
 
 ![](img/relevos_brasil.png){.stretch}
+
+::: notes
+
+REFERÊNCIAS:
+
+- [IBGE | Relevo - Unidades de relevo](https://atlasescolar.ibge.gov.br/images/atlas/mapas_brasil/brasil_unidades_de_relevo.pdf)
+
+:::
 
 ---
 
@@ -230,6 +321,14 @@ Falha de San Andreas
 
 - A **Pedogênese** (formação dos solos) ocorre quando modificações causadas pelo intemperismo tornam-se estruturais, com os minerais reorganizados. Depois a fauna e a flora **modificam e movimentam materiais**, mantendo o solo aerado e renovado.
 - Os dois processos formam o **perfil do solo**, estruturado sobre a rocha matriz, formando o **manto de alteração**.
+
+::: notes
+
+PARA IR ALÉM:
+
+- [Serviço Geológico do Brasil | Os Solos](http://www.cprm.gov.br/publique/Redes-Institucionais/Rede-de-Bibliotecas---Rede-Ametista/Os-Solos-2620.html)
+
+:::
 
 ---
 
@@ -254,7 +353,9 @@ Falha de San Andreas
 
 ---
 
-![Terraços agrícolas no Peru, criados pelo Império Inca](img/terraceamento.jpg)
+![](img/terraceamento.jpg)
+
+[Terraços agrícolas no Peru, criados pelo Império Inca](https://pt.wikipedia.org/wiki/Terraceamento)
 
 ---
 
@@ -263,12 +364,16 @@ Falha de San Andreas
 - Processo que vem tomando grandes proporções e que provoca impactos ambientais, sociais e econômicos.
 - **Desertificação** é a degradação do solo nas regiões mais secas em decorrência das variações climáticas e atividades humanas. - Agenda 21
   - Principais causas segundo as Nações Unidas: **sobrepastoreio**, **salinização** por irrigação e **processos de uso intensivo** sem manejo adequeado.
-- TODO: CITAR A AMAZÔNIA
 
 ::: notes
 
 - Impactos ambientais: destruição da fauna e da flora, redução dos recursos hídricos (assoreamento), perda química e física dos solos.
   - Gera perda na capacidade produtiva, provocando mudanças sociais como migrações (campo pra cidade por ex.).
+
+
+PARA IR ALÉM:
+
+- [Desertificação](https://brasilescola.uol.com.br/geografia/desertificacao.htm)
 
 :::
 
@@ -276,21 +381,3 @@ Falha de San Andreas
 
 - Ações de degradação induzidas pelo homem, segundo a FAO:
   - das **populações animais e vegetais** (caça e extração de madeira); do **solo** (fisica - erosão e compactação pela mecanização - ou química - salinização); das **condições hidrológicas** da superfícia (perda da cobertura vegetal); das **condições geo-hidrológicas** das águas subterrâneas (modificação nas condições de recarga); da **infraestrutura econômica** e **qualidade de vida** dos assentamentos humanos.
-
-# Referências
-
-http://simonweckert.com/googlemapshacks.html
-
-http://geoprofessora.blogspot.com/2008/09/mercator-x-peters.html
-
-https://www.coladaweb.com/geografia/projecoes-de-mercator-e-peters
-
-https://www.nexojornal.com.br/expresso/2019/09/04/Este-mapa-mostra-onde-os-pa%C3%ADses-estariam-na-Pangeia
-
-https://www.smithsonianmag.com/smart-news/map-lets-you-plug-your-address-see-how-neighborhood-has-changed-over-past-750-million-years-180971507/
-
-https://atlasescolar.ibge.gov.br/a-terra/formacao-dos-continentes
-
-https://atlasescolar.ibge.gov.br/a-terra/nosso-planeta-no-universo.html
-
-https://atlasescolar.ibge.gov.br/conceitos-gerais/o-que-e-cartografia.html
