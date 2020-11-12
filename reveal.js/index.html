@@ -27,17 +27,31 @@
 	<script src="plugin/notes/notes.js"></script>
 	<script src="plugin/markdown/markdown.js"></script>
 	<script src="plugin/highlight/highlight.js"></script>
-	<!-- <script>
-			// More info about initialization & config:
-			// - https://revealjs.com/initialization/
-			// - https://revealjs.com/config/
-			Reveal.initialize({
-				hash: true,
+	<script src="plugin/menu/menu.js"></script>
+	<script>
+		// More info about initialization & config:
+		// - https://revealjs.com/initialization/
+		// - https://revealjs.com/config/
+		Reveal.initialize({
+			hash: true,
 
-				// Learn about plugins: https://revealjs.com/plugins/
-				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
-			});
-		</script> -->
+			// Learn about plugins: https://revealjs.com/plugins/
+			plugins: [RevealMarkdown, RevealHighlight, RevealNotes, RevealMenu],
+
+			menu: { numbers: true },
+
+			hash: true,
+			navigationMode: 'grid',
+			hash: true,
+			slideNumber: true,
+			width: 800,
+			heigth: 600,
+			margin: 0.1,
+			progress: 'c/t',
+			showNotes: 'separate-page',
+			theme: 'serif'
+		});
+	</script>
 </body>
 
 </html>

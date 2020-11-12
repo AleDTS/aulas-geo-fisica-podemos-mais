@@ -1,13 +1,14 @@
 pandoc \
-    -t revealjs -s aula01.md -o aula01-slide.html \
+    -t revealjs aula01.md -o aula01-slide.html \
+    --standalone --self-contained \
     -f markdown-markdown_in_html_blocks-native_divs \
-    -c style.css \
-    -A revealConfig.html \
-    -V revealjs-url=../../reveal.js \
-    -V theme=serif \
+    -c css/style.css \
+    -c css/slide.css \
+    -V revealjs-url=../../reveal.js
 
 pandoc \
-    -s aula01.md -o aula01.html \
-    -c html.css \
-    --toc \
-    --self-contained
+    aula01.md -o aula01.html \
+    --standalone --self-contained --toc \
+    --css css/pandoc.css \
+    --css css/style.css \
+    --css css/pagina.css

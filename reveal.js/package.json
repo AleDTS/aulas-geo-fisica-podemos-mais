@@ -95,5 +95,6 @@
       "no-eq-null": 2,
       "no-unused-expressions": 0
     }
-  }
+  },
+  "dependencies": {}
 }

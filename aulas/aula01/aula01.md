@@ -1,21 +1,20 @@
 ---
 author: Alexandre Tomy
-title: Cartografia / Geomorfologia
+title: Aula 01 - Cartografia / Geomorfologia
 date: 06/11/2020
+
+include-after: |
+  <script> Reveal.configure({ showNotes: "separate-page" }) </script>
+
+# revealjs
+theme: "serif"
+hash: true
+slideNumber: true
+width: 800
+heigth: 600
 ---
 
 # Cartografia
-
-::: notes
-
-PARA IR ALÉM:
-
-- [IBGE | Atlas Escolar | conceitos gerais | o que é cartografia?](https://atlasescolar.ibge.gov.br/conceitos-gerais/o-que-e-cartografia)
-- [IBGE | Atlas Escolar | a terra | nosso planeta no universo](https://atlasescolar.ibge.gov.br/a-terra/nosso-planeta-no-universo)
-
-:::
-
----
 
 ## Projeções cartograficas
 
@@ -53,7 +52,7 @@ Diferentes maneiras de ver o Mundo!](https://geoprofessora.blogspot.com/2008/09/
 
 PARA IR ALÉM:
 
-- [[PodTerritorial] Professor da Unesp explica o que é Cartografia Geográfica Crítica](https://podcast.unesp.br/15548/podterritorial-professor-da-unesp-explica-o-que-e-cartografia-geografica-critica)
+- [[PodTerritorial] Professor da Unesp explica o que é Cartografia Geográfica Crítica](https://podcast.unesp.br/15548/podterritorial-professor-da-unesp-explica-o-que-e-cartografia-geografica-critica) - Eduardo Paulon Girardi, especialista em geografia agrária da Unesp em Presidente Prudente e membro da Rede Dataluta, explica o que é Cartografia Geográfica Crítica.
 
 :::
 
@@ -61,7 +60,19 @@ PARA IR ALÉM:
 
 ### O "Hack" do Google Maps
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/k5eL_al_m7Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![](img/gmaps_hack.jpeg){.stretch}
+
+::: {#gmaps-hack}
+:::
+
+<script> 
+  var gmapsHack = '<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/k5eL_al_m7Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>';
+  
+  if ( !( window.location.search.match( /print-pdf/gi )) ) {
+    console.log('alou')
+    document.getElementById('gmaps-hack').insertAdjacentHTML('beforeend', gmapsHack);
+  }
+</script>
 
 ::: notes
 
@@ -71,15 +82,21 @@ REFERÊNCIAS:
 
 PARA IR ALÉM:
 
-- [Os territórios que o Google Maps esconde - Outras Palavras](https://outraspalavras.net/tecnologiaemdisputa/os-territorios-que-o-google-maps-esconde/)
+- [Os territórios que o Google Maps esconde - Outras Palavras](https://outraspalavras.net/tecnologiaemdisputa/os-territorios-que-o-google-maps-esconde/) - Palestina, Caxemira e outros espaços que o poder global quer esconder são quase apagados, nos mapas da gigante da internet. Em seu lugar, um leve tracejado, sinal de que podem desaparecer. Há alternativa: o OpenStreetMap, plataforma livre
 
 :::
 
 ---
 
-# Geomorfologia
+## Mais materiais
 
----
+
+- Boa explicação sobre:
+  - Cartografia: [IBGE | Atlas Escolar | conceitos gerais | o que é cartografia?](https://atlasescolar.ibge.gov.br/conceitos-gerais/o-que-e-cartografia)
+  - Astronomia: [IBGE | Atlas Escolar | a terra | nosso planeta no universo](https://atlasescolar.ibge.gov.br/a-terra/nosso-planeta-no-universo)
+
+
+# Geomorfologia
 
 ## Camadas da Terra
 
@@ -373,7 +390,7 @@ PARA IR ALÉM:
 
 PARA IR ALÉM:
 
-- [Desertificação](https://brasilescola.uol.com.br/geografia/desertificacao.htm)
+- [Brasil Escola | Desertificação](https://brasilescola.uol.com.br/geografia/desertificacao.htm)
 
 :::
 
@@ -381,3 +398,12 @@ PARA IR ALÉM:
 
 - Ações de degradação induzidas pelo homem, segundo a FAO:
   - das **populações animais e vegetais** (caça e extração de madeira); do **solo** (fisica - erosão e compactação pela mecanização - ou química - salinização); das **condições hidrológicas** da superfícia (perda da cobertura vegetal); das **condições geo-hidrológicas** das águas subterrâneas (modificação nas condições de recarga); da **infraestrutura econômica** e **qualidade de vida** dos assentamentos humanos.
+
+
+# Referências
+
+##
+
+- O conteúdo desta aula foi baseado principalmente nas [apostilas do Me Salva!](https://www.mesalva.com/), bem como outras referências citadas nos slides.
+  - [Geografia ENEM: Volume I](https://materiais.mesalva.com/apostila-geografia-enem-vol1), 1. Cartografia; [Geografia ENEM: Volume II](https://materiais.mesalva.com/apostila-geografia-enem-vol2), 4. Geomorfologia
+  - Também disponível no [canal do telegram do Me Salva](https://t.me/mesalva/10)!
