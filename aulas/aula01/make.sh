@@ -4,7 +4,7 @@ pandoc \
     -f markdown-markdown_in_html_blocks-native_divs \
     -c css/style.css \
     -c css/slide.css \
-    -V revealjs-url=../../reveal.js
+    -V revealjs-url=https://unpkg.com/reveal.js@4
 
 pandoc \
     aula01.md -o aula01.html \
