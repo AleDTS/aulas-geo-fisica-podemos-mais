@@ -1,6 +1,6 @@
 ---
 author: Alexandre Tomy
-title: Aula 02
+title: Aula 02 - Hidrografia, Recursos minerais
 date: 19/11/2020
 
 include-after: |
@@ -58,12 +58,12 @@ heigth: 600
 
 - Correntes marítimas são movimentos horizontais das águas oceânicas, ocasionados pela diferença de salinidade e temperatura das águas e movimento de rotação da Terra. Podem ser quentes ou frias, influenciando o clima do planeta e a piscosidade (ocorrência de peixes) das áeas oceânicas
 
-<iframe src="assets/mundo_clima_e_correntes_maritimas.pdf" type="application/pdf"></iframe>
+<!-- <iframe src="assets/mundo_clima_e_correntes_maritimas.pdf" type="application/pdf"></iframe> -->
 
 <!-- <embed src="assets/mundo_clima_e_correntes_maritimas.pdf" type="application/pdf"></embed> -->
 
 <object data="assets/mundo_clima_e_correntes_maritimas.pdf" type="application/pdf" class="stretch">
-  <embed src="assets/mundo_clima_e_correntes_maritimas.pdf" type="application/pdf" class="stretch"></embed>
+  <embed src="assets/mundo_clima_e_correntes_maritimas.pdf" class="stretch"></embed>
 </object>
 
 ---
@@ -179,14 +179,14 @@ Regiões onde a precipitação de neve é superior ao derretimento
 
 :::
 
----
-
 ## Crise mundial da água
 
 - Causas gerais: seca, poluição e má distribuição
   - No brasil: aumento no consumo (crescimento populacionao); desperdício (irrigação na agricultura); diminuição do nível das chuvas (desmatamento na floresta amazônica está relacionado, pois os "rios voadores" levam a umidade à outras regiões)
 - Consequências: falta traz impactos sociais, econômicos e ambientais
   - No brasil: redução da ofertade alimentos, comprometimento da gereção de energia
+
+---
 
 - Seca no Sudeste brasileiro em 2014/15
   - Sistema da cantareita (atende mais 9 milhões de pessoas) sofreu com problema de abastecimento causado pela falta de chuvas acompanhado do aumento da temperatura. A causa da seca esteve relacionada com a formação de um bolsão de ar quente e seco que impediu a chegada de nuvens carregadas de umidade vindas da Amazônia 
@@ -197,6 +197,14 @@ REFERÊNCIAS:
 
 - [Uma possível origem das estiagens de verão do Sudeste](https://revistapesquisa.fapesp.br/uma-possivel-origem-das-estiagens-de-verao-do-sudeste/)
 
+:::
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RsUD8CTDdAw" frameborder="0" allow="accelerometer;; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+::: notes
+
 PARA IR ALÉM:
 
 - [ONU: mundo enfrenta uma crise de água e precisa reagir](https://www.youtube.com/watch?v=1RLhXg_7bKw)
@@ -204,10 +212,6 @@ PARA IR ALÉM:
 - [O que é segurança hídrica e quais as regiões mais ameaçadas no Brasil](https://pp.nexojornal.com.br/Dados/2020/08/24/O-que-%C3%A9-seguran%C3%A7a-h%C3%ADdrica-e-quais-as-regi%C3%B5es-mais-amea%C3%A7adas-no-Brasil)
 
 :::
-
----
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RsUD8CTDdAw" frameborder="0" allow="accelerometer;; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -299,7 +303,7 @@ REFERÊNCIAS:
 PARA IR ALÉM:
 
 - [Estudo mostra que o Aquífero Guarani está contaminado por agrotóxicos](https://www.ecodebate.com.br/2011/05/19/estudo-mostra-que-o-aquifero-guarani-esta-contaminado-por-agrotoxicos/)
-- http://conjuntura.ana.gov.br/
+- [Relatório Conjuntura dos Recursos Hídricos 2019](http://conjuntura.ana.gov.br/)
 
 :::
 
@@ -308,9 +312,14 @@ PARA IR ALÉM:
 ## Transposição das águas do Rio São Francisco
 
 - Desde o tempo do império, discuti-se a possibilidade da transposição das águas do Rio São Francisco para o **Polígono da Seca**, para solucionar o problema da seca no Nordeste.
-- A transposição consiste em estender a circulação do rio Velho Chico (leito percorre MG, PE e BA) para RN, PB, PE, CE (1/3 do semiárido nordestinho), abastecendo <u>8 milhões de pessoas</u>, <u>268 cidades</u> e irrigar <u>300 mil hectares de terras</u>. Junto com Itaipu e a Transamazônica, a transposição seria uma das maiores obras de engenharia do país
 
 ![](assets/semiarido_nordestino.jpg){.stretch}
+
+::: notes
+
+- A transposição consiste em estender a circulação do rio Velho Chico (leito percorre MG, PE e BA) para RN, PB, PE, CE (1/3 do semiárido nordestinho), abastecendo <u>8 milhões de pessoas</u>, <u>268 cidades</u> e irrigar <u>300 mil hectares de terras</u>. Junto com Itaipu e a Transamazônica, a transposição seria uma das maiores obras de engenharia do país
+
+:::
 
 ---
 
@@ -321,13 +330,9 @@ PARA IR ALÉM:
 
 ---
 
-- Outros pontos:
-  - Consumo de energia: equivalente à gerada em Sobradinho 
-  - Garantia de vazão do rio que assegure a **geração de energia elétrica** e **irrigação** - 
-    - Os afluentes do Rio São Francisco possuem **regime temporário**. Isso causa **diminuição gradativa de sua vazão** ao londo do ano (pelas interrupções/diminuições da vazão dos afluentes), **agravada pelo uso das águas na irrigação** (não retornam ao rio).
-    - Parte do volume de água desviada seria destinada a projetos de agriculura irrigada (p/ produção de frutas para exportação; produção de camarão em açudes). Outra parcela seria para abastecer centros urbanos.
-- Alternativas à transposição:
-  - Melhor **gerenciamento** e **uso sustentável** dos recursos hídricos do semiárido; investimento em **obras não acabadas**; **revitalização do rio** - reflorestamento das margens (não possui 95% da vegetação nativa), evitando erosão/assoreamento (causam problemas para navegação e de equilíbio ambiental)
+- Outros pontos: Garantia de vazão do rio que assegure a **geração de energia elétrica** e **irrigação**.
+    - Os afluentes do Rio São Francisco possuem **regime temporário**. Isso causa **diminuição gradativa de sua vazão** ao longo do ano (pelas interrupções/diminuições da vazão dos afluentes), **agravada pelo uso das águas na irrigação** (não retornam ao rio). Parte do volume de água desviada seria destinada a projetos de agriculura irrigada (p/ produção de frutas para exportação; produção de camarão em açudes). Outra parcela seria para abastecer centros urbanos.
+- Alternativas à transposição: Melhor **gerenciamento** e **uso sustentável** dos recursos hídricos do semiárido; investimento em **obras não acabadas**; **revitalização do rio** - reflorestamento das margens (não possui 95% da vegetação nativa), evitando erosão/assoreamento (causam problemas para navegação e de equilíbio ambiental)
 
 # Recursos Minerais
 
@@ -338,12 +343,6 @@ PARA IR ALÉM:
 - Dois escudos cristalinos (das Guianas e Brasileiro) afloram no território - possuem concentração de minerais metálicos
 - Na região amazônica, há jazidas de ouro espalhadas
 - Áreas de sedimentação separam/recobrem os escudos cristalinos; jazidas de carvão (RS, SC, PR), urânio (GO)
-
----
-
-<!-- <iframe src="assets/recursos_minerais.pdf" class="stretch"></iframe> -->
-
----
 
 ### Principais minérios no Brasil
 
@@ -372,10 +371,13 @@ PARA IR ALÉM:
 
 ### Áreas produtoras de minérios
 
+:::::: {.columns}
+::: {.column width="40%"}
 
-![](assets/mineracao_brasil.png){.stretch}
+![](assets/mineracao_brasil.png)
 
----
+:::
+::: {.column width="60%"}
 
 - (<u>QF</u>): jazidas de minério de **ferro**; produção p/ mercado interno e externo; escoamento pelo Rio Paraopeba e Vale do Rio Doce até portos de Vitória e Tubarão (ES)
 - (<u>SC</u>): maior província mineralógica do planeta (**ferro**, **manganês**, **bauxita**, **estanho**, **ouro**. **cobre** e **níquei**)
@@ -383,7 +385,8 @@ PARA IR ALÉM:
 - (<u>SN</u>): grande produção de **manganês**
 - (<u>MU</u>): produção de **ferro** e **manganês**; escoamento por barcos no rio Paraguai até o porto de Corumbá (MS)
 
----
+:::
+::::::
 
 ::: notes
 
@@ -394,6 +397,7 @@ PARA IR ALÉM:
 3.  <u>Vale do Rio Trombetas/Serra de Oriximiná</u> (PA): grande jazidade bauxita descoberta em 1966 pela Alcan - empresa transnacional canadense do ramo de alumínio. Nas décadas de 70 e 80, a **política dos governos militeres era de aproveitamento econômico do espaço amazônico**, através de sociedades entre estatais e transnacionais. Projeto Trombetas abastece empresas do Projeto dos Pólos de Alumínio (maioria estrangeiras) que utiliza energia elétrica de Tucuruí, vendida com desconto.
 4.  <u>Serra do Navio</u> (PA): grande produção de **manganês** desde a década de 1950, tendo hoje suas **reservas quase esgotadas**.
 5.  <u>Maciço de Urucum</u> (Pantanal - MS): produção é prejudicada pela distância e falta de meios de transporte para os centros consumidores.
+
 
 PARA IR ALÉM:
 

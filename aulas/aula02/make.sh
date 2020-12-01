@@ -8,7 +8,7 @@ pandoc \
 
 pandoc \
     aula02.md -o aula02.html \
-    --standalone --self-contained --toc \
+    --self-contained \
     --css css/pandoc.css \
     --css css/style.css \
     --css css/pagina.css
