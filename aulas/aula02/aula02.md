@@ -58,11 +58,7 @@ heigth: 600
 
 - Correntes marítimas são movimentos horizontais das águas oceânicas, ocasionados pela diferença de salinidade e temperatura das águas e movimento de rotação da Terra. Podem ser quentes ou frias, influenciando o clima do planeta e a piscosidade (ocorrência de peixes) das áeas oceânicas
 
-<iframe src="assets/mundo_clima_e_correntes_maritimas.pdf" type="application/pdf"></iframe>
-
-<object data="assets/mundo_clima_e_correntes_maritimas.pdf" type="application/pdf" class="stretch">
-  <embed src="assets/mundo_clima_e_correntes_maritimas.pdf" type="application/pdf" class="stretch"></embed>
-</object>
+<object data="assets/mundo_clima_e_correntes_maritimas.pdf" type="application/pdf" class="stretch"></object>
 
 ---
 
@@ -224,7 +220,7 @@ PARA IR ALÉM:
 
 ### Bacias hidrográficas brasileiras
 
-<!-- <iframe src="assets/brasil_bacias.pdf" class="stretch"></iframe> -->
+<object data="assets/brasil_bacias.pdf" type="application/pdf" class="stretch"></object>
 
 ::: notes
 
@@ -250,7 +246,7 @@ PARA IR ALÉM:
 - Devido a grande extensão e capacidade ambiental, há uma enorme concentração de reservatórios no Brasil. 
 - Principais aquíferos: Guarani, Alter do Chão (maiores do mundo), Cabeças, Baurú, Urucuia-Areado e Furnas
 
-<!-- <iframe src="assets/brasil_aguas_subterraneas.pdf" class="stretch"></iframe> -->
+<object data="assets/brasil_aguas_subterraneas.pdf" type="application/pdf" class="stretch"></object>
 
 ---
 
@@ -344,7 +340,7 @@ PARA IR ALÉM:
 
 ### Principais minérios no Brasil
 
-<!-- <iframe src="assets/recursos_minerais.pdf" class="stretch"></iframe> -->
+<object data="assets/recursos_minerais.pdf" type="application/pdf" class="stretch"></object>
 
 ::: notes
 

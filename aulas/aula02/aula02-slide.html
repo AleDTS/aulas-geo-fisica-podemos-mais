@@ -1,3 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="author" content="Alexandre Tomy">
+  <title>Aula 02 - Hidrografia, Recursos minerais</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@4/dist/reset.css">
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@4/dist/reveal.css">
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@4/dist/theme/serif.css" id="theme">
+  <link rel="stylesheet" href="css/style.css"/>
+  <link rel="stylesheet" href="css/slide.css"/>
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+<section id="title-slide">
+  <h1 class="title">Aula 02 - Hidrografia, Recursos minerais</h1>
+  <p class="author">Alexandre Tomy</p>
+  <p class="date">19/11/2020</p>
+</section>
+
 <section>
 <section id="hidrografia" class="title-slide slide level1">
 <h1>Hidrografia</h1>
@@ -59,10 +94,8 @@
 <ul>
 <li>Correntes marítimas são movimentos horizontais das águas oceânicas, ocasionados pela diferença de salinidade e temperatura das águas e movimento de rotação da Terra. Podem ser quentes ou frias, influenciando o clima do planeta e a piscosidade (ocorrência de peixes) das áeas oceânicas</li>
 </ul>
-<iframe src="assets/mundo_clima_e_correntes_maritimas.pdf" type="application/pdf">
-</iframe>
 <object data="assets/mundo_clima_e_correntes_maritimas.pdf" type="application/pdf" class="stretch">
-<p><embed src="assets/mundo_clima_e_correntes_maritimas.pdf" type="application/pdf" class="stretch"></embed> </object></p>
+</object>
 </section>
 <section id="águas-continentais" class="slide level2">
 <h2>Águas continentais</h2>
@@ -243,7 +276,8 @@
 <section class="slide level2">
 
 <h3 id="bacias-hidrográficas-brasileiras">Bacias hidrográficas brasileiras</h3>
-<!-- <iframe src="assets/brasil_bacias.pdf" class="stretch"></iframe> -->
+<object data="assets/brasil_bacias.pdf" type="application/pdf" class="stretch">
+</object>
 <aside class="notes">
 <ul>
 <li><p><u>Bacia amazônica</u>: <strong>maior do planeta</strong> (3 904 393 km2); drena terras de 45% do território; Rio Amazonas é o mais extenso (7 100 km) e de maior volume; Amazonas é um rio de planice com afluentes em planaltos; maior potencial hidrelétrico (menos aproveitado); sempre serviram como <strong>canais de entrada</strong> para a região e principal <strong>meio de comunicação</strong></p></li>
@@ -266,7 +300,8 @@
 <li>Devido a grande extensão e capacidade ambiental, há uma enorme concentração de reservatórios no Brasil.</li>
 <li>Principais aquíferos: Guarani, Alter do Chão (maiores do mundo), Cabeças, Baurú, Urucuia-Areado e Furnas</li>
 </ul>
-<!-- <iframe src="assets/brasil_aguas_subterraneas.pdf" class="stretch"></iframe> -->
+<object data="assets/brasil_aguas_subterraneas.pdf" type="application/pdf" class="stretch">
+</object>
 </section>
 <section class="slide level2">
 
@@ -366,7 +401,8 @@
 <li>Áreas de sedimentação separam/recobrem os escudos cristalinos; jazidas de carvão (RS, SC, PR), urânio (GO)</li>
 </ul>
 <h3 id="principais-minérios-no-brasil">Principais minérios no Brasil</h3>
-<!-- <iframe src="assets/recursos_minerais.pdf" class="stretch"></iframe> -->
+<object data="assets/recursos_minerais.pdf" type="application/pdf" class="stretch">
+</object>
 <aside class="notes">
 <ul>
 <li>Minério de <u>ferro</u>: Principais produtores: China, Brasil, Austrália, EUA, Canadá, Índia; Brasil possuí <strong>grandes jazidas, concentradas em MG</strong>, trazendo destaque no cenário mundial</li>
@@ -424,3 +460,41 @@
 </ul>
 </aside>
 </section></section>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/reveal.js@4/dist/reveal.js"></script>
+
+  // reveal.js plugins
+  <script src="https://unpkg.com/reveal.js@4/plugin/notes/notes.js"></script>
+  <script src="https://unpkg.com/reveal.js@4/plugin/search/search.js"></script>
+  <script src="https://unpkg.com/reveal.js@4/plugin/zoom/zoom.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://revealjs.com/config/
+      Reveal.initialize({
+        // Display the page number of the current slide
+        slideNumber: true,
+        // Add the current slide number to the URL hash so that reloading the
+        // page/copying the URL will return you to the same slide
+        hash: true,
+        // Push each slide change to the browser history
+        history: true,
+        // The "normal" size of the presentation, aspect ratio will be preserved
+        // when the presentation is scaled to fit different resolutions. Can be
+        // specified using percentage units.
+        width: 800,
+
+        // reveal.js plugins
+        plugins: [
+          RevealNotes,
+          RevealSearch,
+          RevealZoom
+        ]
+      });
+    </script>
+    <script> Reveal.configure({ showNotes: "separate-page" }) </script>
+    </body>
+</html>
