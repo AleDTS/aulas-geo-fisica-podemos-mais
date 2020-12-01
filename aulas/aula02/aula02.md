@@ -60,11 +60,9 @@ heigth: 600
 
 <!-- <iframe src="assets/mundo_clima_e_correntes_maritimas.pdf" type="application/pdf"></iframe> -->
 
-<!-- <embed src="assets/mundo_clima_e_correntes_maritimas.pdf" type="application/pdf"></embed> -->
+<embed src="assets/mundo_clima_e_correntes_maritimas.pdf" type="application/pdf" class="stretch"></embed>
 
-<object data="assets/mundo_clima_e_correntes_maritimas.pdf" type="application/pdf" class="stretch">
-  <embed src="assets/mundo_clima_e_correntes_maritimas.pdf" class="stretch"></embed>
-</object>
+<object data="assets/mundo_clima_e_correntes_maritimas.pdf" type="application/pdf" class="stretch"></object>
 
 ---
 

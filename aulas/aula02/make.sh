@@ -1,6 +1,6 @@
 pandoc \
     -t revealjs aula02.md -o aula02-slide.html \
-    --standalone --self-contained \
+    --self-contained \
     -f markdown-markdown_in_html_blocks-native_divs \
     -c css/style.css \
     -c css/slide.css \
