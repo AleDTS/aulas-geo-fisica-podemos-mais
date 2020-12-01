@@ -43,6 +43,8 @@ heigth: 600
 - <u>Mares</u>: massas de água salgadas próximo ou no interior dos continentes, sobre a plataforma continental
   - Possuem maior salinidade, temperatura, transparência e menor profundidade.
 
+---
+
 - Os **mares** são classificados em: 
   - Mar <u>aberto</u> ou costeiro: ligação com oceanos por largas passagens  - Mar do Japão; 
   - Mar <u>interior</u> ou continental: ligação com oceano por canais ou estreitos - Mar Mediterrâneo; 
@@ -52,8 +54,11 @@ heigth: 600
 
 - Correntes marítimas são movimentos horizontais das águas oceânicas, ocasionados pela diferença de salinidade e temperatura das águas e movimento de rotação da Terra. Podem ser quentes ou frias, inflienciando o clima do planeta e a piscosidade (ocorrência de peixes) das áeas oceânicas
 
-<iframe src="assets/mundo_clima_e_correntes_maritimas.pdf" class="stretch"></iframe>
+<iframe src="assets/mundo_clima_e_correntes_maritimas.pdf" type="application/pdf"></iframe>
 
+<embed src="assets/mundo_clima_e_correntes_maritimas.pdf" type="application/pdf"></embed>
+
+<object src="assets/mundo_clima_e_correntes_maritimas.pdf" type="application/pdf"></object>
 ---
 
 ## Águas continentais
@@ -82,11 +87,15 @@ heigth: 600
 
 Corrente de água permanete ou não, que leva excesso das águas continentais superficiais até os oceanos, mares e lagos.
 
+
 - Formas: **estuário**, **delta** ou **mista** (rio Amazonas)
 - Regimes - variação da quantidade de água que cada rio lança em um ponto do curso durante um ano
   - <u>Regime Pluvial</u>: varia com a quantidade de chuvas; regiões equatoriais e tropicais
   - <u>Regime Nival</u>: águas provẽm do derretimento de geleiras e da neve; áreas de clima temperado com estação fria prolongada
   - <u>Regime Pluvionival</u>: rios alimentados por chuvas e derretimento de geleiras e neve
+
+---
+
 - Águas fluviais, relevo e clima estão relacionados. 
 - Conforme o escoamento das águas, os rios podem ser:
   - **Perenes** (nunca secam); **Itermitentes** ou temporários (possuem água durante período chovoso e secam na estiagem - áreas desertas); **efêmeros** (existem durante ou logo após precipitação)
@@ -97,13 +106,12 @@ Corrente de água permanete ou não, que leva excesso das águas continentais su
 
 Massas líquidas continentais delimitadas por terrenos ou água acumulada em depressões
 
-- Tipos:
-  - <u>Tectônicos</u>: provenientes do deslocamento da crosta terrestre; estreitos e profundos
-  - <u>Vulcânicos</u>: antigas crateras vulcânicas
-  - <u>De Erosão</u>: resultantes da destruição dos rios e geleiras
-  - <u>De Barragem</u>: originam-se da sedimentação ocasionadas por geleiras, rios e mares (lagos do RS)
-  - <u>De Barragem Glacial</u>: formados pela obstrução da moraina (transporte de geleiras)
-  - <u>De Barragem Fluvial</u>: formados pela evolução de meandros (curvas sinuosas dos rios)
+1. <u>Tectônicos</u>: provenientes do deslocamento da crosta terrestre; estreitos e profundos
+2. <u>Vulcânicos</u>: antigas crateras vulcânicas
+3. <u>De Erosão</u>: resultantes da destruição dos rios e geleiras
+4. <u>De Barragem</u>: originam-se da sedimentação ocasionadas por geleiras, rios e mares (lagos do RS)
+5. <u>De Barragem Glacial</u>: formados pela obstrução da moraina (transporte de geleiras)
+6. <u>De Barragem Fluvial</u>: formados pela evolução de meandros (curvas sinuosas dos rios)
 
 ---
 
@@ -119,23 +127,25 @@ Regiões onde a precipitação de neve é superior ao derretimento
 
 Água que ocupa "vazios" em formações rochosas Solos porosos (arenosos) - facilitam a infiltração da água; solos pouco permeáveis (argilosos rochas) - dificultam a infiltração da água
 
-- Aquíferos: toda formação geológica capaz de armazenas água em seus espaços vazios
-  - freático ou livre: mais pŕoximo da superfícia e pode ser facilmente aproveitado
-  - confinados: água armazenada em profundidade e "presa" entre rochas impermeávels. Para aproveitamento, são utilizados poços artesianos com bombas e compressores
+- <u>Aquíferos</u>: toda formação geológica capaz de armazenas água em seus espaços vazios
 
 ![](assets/aquifero.jpg){.stretch}
+
+::: notes
+
+- Tipos de aquíferos:
+  - <u>freático</u> ou livre: mais pŕoximo da superfícia e pode ser facilmente aproveitado
+  - <u>confinados</u>: água armazenada em profundidade e "presa" entre rochas impermeávels. Para aproveitamento, são utilizados poços artesianos com bombas e compressores
+
+:::
 
 ---
 
 ## Poluição
 
-Principais fenômenos:
-
-- Contaminação ou colmatação; Acidificação; Alterações hidrológicas
-- Assoreamento: acúmulo de sedimentos, lixo e outros materiais no leito dos cursos d'água, levados pela **chuva**, **vento** ou pelo **ser humano**
+- <u>Contaminação</u> ou colmatação; Acidificação; Alterações hidrológicas
+- <u>Assoreamento</u>: acúmulo de sedimentos, lixo e outros materiais no leito dos cursos d'água, levados pela **chuva**, **vento** ou pelo **ser humano**
   - Desmatamento (mata ciliar) -> perda do solo (erosão) -> assoreamento -> desequilíbrio hidrológico -> cheias (menor capacidade de escoamento); estiagens (seca - menor quantidade de água e umidade dos solos)
-- Eutrofização: consequência do aumento da quantidade de nutrientes no ambiente aquático
-  - **aumento de nutrientes** (fósforo e nitrogênio - detergentes, esgotos, adubos - acumulados naturalmente)-> proliferação de algas e cianobactérias (agua turva) -> morte das plantas (impede a fotossíntese) -> uso elevado de oxigênio gasto na decomposição -> diminuição do oxigênio dissolvido na água -> morte da fauna aquática
 
 ::: notes
 
@@ -143,6 +153,15 @@ Principais fenômenos:
   - Retirada da **mata ciliar** faz com que o solo e as rochas nas margens sejam carregados para os **fundos dos rios**, que pode ser intensificado com chuva. Deposição de lixo, resíduos de construção civil, esgoto aumenta a carga de detritos
   - Reduz do volume d'água, torna-a turva (impedindo renovação do oxigênio) podendo extinguir a vida presente;
   - Ajuda a causar enchentes pois o leito do rio fica ocupado pelos detritos, então nas chuvas intensas, a água transborda. Traz conseqências de **abastecimento nas cidades**, **fornecimento para agricultura**, **dificulta navegação**
+
+:::
+
+---
+
+- <u>Eutrofização</u>: consequência do aumento da quantidade de nutrientes no ambiente aquático
+  - **aumento de nutrientes** (fósforo e nitrogênio - detergentes, esgotos, adubos - acumulados naturalmente) -> proliferação de algas e cianobactérias (agua turva) -> morte das plantas (impede a fotossíntese) -> uso elevado de oxigênio gasto na decomposição -> diminuição do oxigênio dissolvido na água -> morte da fauna aquática
+
+::: notes
 
 - Soluções:
   - Gestão ambiental das bacias hidrográficas: uso como unidade de planejamento
@@ -175,7 +194,7 @@ PARA IR ALÉM:
 
 - [ONU: mundo enfrenta uma crise de água e precisa reagir](https://www.youtube.com/watch?v=1RLhXg_7bKw)
 - [Escassez de Água | Toda Matéra](https://www.todamateria.com.br/escassez-de-agua/)
-- []https://pp.nexojornal.com.br/Dados/2020/08/24/O-que-%C3%A9-seguran%C3%A7a-h%C3%ADdrica-e-quais-as-regi%C3%B5es-mais-amea%C3%A7adas-no-Brasil
+- [O que é segurança hídrica e quais as regiões mais ameaçadas no Brasil](https://pp.nexojornal.com.br/Dados/2020/08/24/O-que-%C3%A9-seguran%C3%A7a-h%C3%ADdrica-e-quais-as-regi%C3%B5es-mais-amea%C3%A7adas-no-Brasil)
 
 :::
 

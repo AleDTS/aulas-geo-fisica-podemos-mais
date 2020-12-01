@@ -9,10 +9,13 @@ img {
     height: auto;
 }
 
-iframe {
+iframe, embed {
     width: 100%;
     max-width: 600px;
+    height: 400px;
 }
+
+
 
 div.notes {
     font-size: 80%;
