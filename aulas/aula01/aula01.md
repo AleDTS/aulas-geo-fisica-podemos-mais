@@ -69,7 +69,6 @@ PARA IR ALÉM:
   var gmapsHack = '<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/k5eL_al_m7Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>';
 
   if ( !( window.location.search.match( /print-pdf/gi )) ) {
-    console.log('alou')
     document.getElementById('gmaps-hack').insertAdjacentHTML('beforeend', gmapsHack);
   }
 </script>

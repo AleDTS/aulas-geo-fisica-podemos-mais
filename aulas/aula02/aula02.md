@@ -58,12 +58,12 @@ heigth: 600
 
 - Correntes marítimas são movimentos horizontais das águas oceânicas, ocasionados pela diferença de salinidade e temperatura das águas e movimento de rotação da Terra. Podem ser quentes ou frias, influenciando o clima do planeta e a piscosidade (ocorrência de peixes) das áeas oceânicas
 
-<!-- <iframe src="assets/mundo_clima_e_correntes_maritimas.pdf" type="application/pdf"></iframe> -->
+<iframe src="assets/mundo_clima_e_correntes_maritimas.pdf" type="application/pdf"></iframe>
 
 <!-- <embed src="assets/mundo_clima_e_correntes_maritimas.pdf" type="application/pdf"></embed> -->
 
 <object data="assets/mundo_clima_e_correntes_maritimas.pdf" type="application/pdf" class="stretch">
-  <embed src="assets/mundo_clima_e_correntes_maritimas.pdf" type="application/pdf" class="stretch""></embed>
+  <embed src="assets/mundo_clima_e_correntes_maritimas.pdf" type="application/pdf" class="stretch"></embed>
 </object>
 
 ---
