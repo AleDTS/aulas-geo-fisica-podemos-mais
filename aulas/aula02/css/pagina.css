@@ -9,7 +9,7 @@ img {
     height: auto;
 }
 
-iframe, embed {
+iframe, embed, object {
     width: 100%;
     max-width: 600px;
     height: 400px;

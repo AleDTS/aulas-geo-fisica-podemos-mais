@@ -28,11 +28,15 @@ heigth: 600
 
 ## Cliclo hidrológico
 
+![](assets/ciclo_agua.jpg){.stretch}
+
+::: notes
+
 - Sistema fechado de escala global entre a superfície e a atmosfera, ou seja, há apenas intercâmbio de energia, não de matéria
 - Fatores que influenciam na variabilidade do ciclo: 
   - quantidade de vapor d'água, CO2 e ozônio na atmosfera; distribuição da energia solar entre os locais do planeta; comportamento térmico dos continentes em relação aos oceanos; variabilidade de solos/cobertura vegetal (uso e ocupação do solo)
 
-![](assets/ciclo_agua.jpg){.stretch}
+:::
 
 ---
 
@@ -52,13 +56,16 @@ heigth: 600
 
 ---
 
-- Correntes marítimas são movimentos horizontais das águas oceânicas, ocasionados pela diferença de salinidade e temperatura das águas e movimento de rotação da Terra. Podem ser quentes ou frias, inflienciando o clima do planeta e a piscosidade (ocorrência de peixes) das áeas oceânicas
+- Correntes marítimas são movimentos horizontais das águas oceânicas, ocasionados pela diferença de salinidade e temperatura das águas e movimento de rotação da Terra. Podem ser quentes ou frias, influenciando o clima do planeta e a piscosidade (ocorrência de peixes) das áeas oceânicas
 
-<iframe src="assets/mundo_clima_e_correntes_maritimas.pdf" type="application/pdf"></iframe>
+<!-- <iframe src="assets/mundo_clima_e_correntes_maritimas.pdf" type="application/pdf"></iframe> -->
 
-<embed src="assets/mundo_clima_e_correntes_maritimas.pdf" type="application/pdf"></embed>
+<!-- <embed src="assets/mundo_clima_e_correntes_maritimas.pdf" type="application/pdf"></embed> -->
 
-<object src="assets/mundo_clima_e_correntes_maritimas.pdf" type="application/pdf"></object>
+<object data="assets/mundo_clima_e_correntes_maritimas.pdf" type="application/pdf" class="stretch">
+  <embed src="assets/mundo_clima_e_correntes_maritimas.pdf" type="application/pdf" class="stretch""></embed>
+</object>
+
 ---
 
 ## Águas continentais
@@ -215,7 +222,7 @@ PARA IR ALÉM:
 
 ### Bacias hidrográficas brasileiras
 
-<iframe src="assets/brasil_bacias.pdf" class="stretch"></iframe>
+<!-- <iframe src="assets/brasil_bacias.pdf" class="stretch"></iframe> -->
 
 ::: notes
 
@@ -241,7 +248,7 @@ PARA IR ALÉM:
 - Devido a grande extensão e capacidade ambiental, há uma enorme concentração de reservatórios no Brasil. 
 - Principais aquíferos: Guarani, Alter do Chão (maiores do mundo), Cabeças, Baurú, Urucuia-Areado e Furnas
 
-<iframe src="assets/brasil_aguas_subterraneas.pdf" class="stretch"></iframe>
+<!-- <iframe src="assets/brasil_aguas_subterraneas.pdf" class="stretch"></iframe> -->
 
 ---
 
@@ -334,13 +341,13 @@ PARA IR ALÉM:
 
 ---
 
-<iframe src="assets/recursos_minerais.pdf" class="stretch"></iframe>
+<!-- <iframe src="assets/recursos_minerais.pdf" class="stretch"></iframe> -->
 
 ---
 
 ### Principais minérios no Brasil
 
-<iframe src="assets/recursos_minerais.pdf" class="stretch"></iframe>
+<!-- <iframe src="assets/recursos_minerais.pdf" class="stretch"></iframe> -->
 
 ::: notes
 
