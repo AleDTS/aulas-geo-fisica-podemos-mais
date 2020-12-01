@@ -308,3 +308,41 @@ date: 19/11/2020
 # Referências
 
 - Apostila Me Salva!  - Volume 2, capítulo 07
+- [Setor energético | Nexo PP](https://pp.nexojornal.com.br/glossario/Setor-energ%C3%A9tico)
+- [Petróleo 2016 | Atlas IBGE](https://atlasescolar.ibge.gov.br/images/atlas/mapas_mundo/mundo_producao_de_petroleo.pdf)
+- [Energia renovável 2015 | Atlas IBGE](https://atlasescolar.ibge.gov.br/images/atlas/mapas_mundo/mundo_energia_renovavel.pdf)
+- [Qual o histórico das crises mundiais do petróleo | Nexo](https://www.nexojornal.com.br/expresso/2020/03/10/Qual-o-hist%C3%B3rico-das-crises-mundiais-do-petr%C3%B3leo?utm_campaign=edu&utm_source=Newsletter)
+
+### Desastre de Mariana
+
+- Em 05/11/2015 rompeu-se uma barragem de rejeitos de mineração, controlada pela Samarco Mineração S.A (empresa conjunta da Vale S.A. e a anglo-australiana BHP Billiton)
+- Desastre industrial que causou o maior impacto ambiental da histórria brasileira e maior do mundo envolvendo barragens de rejeitos
+- Discussão sobre privatização: como a empresa precisa gerar retorno aos seus acionistas, explortação dos recursos minerais seria feita de forma irresponsável, sem compromisso com as comunidades locais. Além disso, gerou custos estatais (obras de contenção de danos) e perdas para os municípios
+
+[Rompimento de barragem em Mariana | Wikipedia](https://pt.wikipedia.org/wiki/Rompimento_de_barragem_em_Mariana)
+
+[Barragem se rompe, e enxurrada de lama destrói distrito de Mariana | G1](http://g1.globo.com/minas-gerais/noticia/2015/11/barragem-de-rejeitos-se-rompe-em-distrito-de-mariana.html)
+
+---
+
+![](/home/aledts/Desktop/aulas-geo-fisica-podemos+/aulas/aula02/%23assets/infografico_mariana.webp)
+
+---
+
+### Desastre de Brumadinho
+
+![](/home/aledts/Desktop/aulas-geo-fisica-podemos+/aulas/aula02/%23assets/brumadinho_animado.gif)
+
+[Rompimento de barragem em Brumadinho | Wikipédia](https://pt.wikipedia.org/wiki/Rompimento_de_barragem_em_Brumadinho)
+
+[Satélite mostra a mina, a barragem, Brumadinho e o rio Paraobepa quatro dias depois do desastre](https://piaui.folha.uol.com.br/o-movimento-da-lama/)
+
+# 
+
+- 
+
+# Referências
+
+- [A brasileira pioneira nos estudos da palinologia: Marília Regali](https://www.youtube.com/watch?v=T7LXGS9h4TM)
+- [Intemperismo e Erosão | Geo Ideias!](https://geoideias.com.br/?p=299)
+- 
