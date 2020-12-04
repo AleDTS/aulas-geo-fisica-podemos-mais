@@ -1,8 +1,0 @@
-a {
-    font-style: italic;
-    color: blue !important; 
-}
-
-:not(nav) li {
-    margin-top: 1em;
-}

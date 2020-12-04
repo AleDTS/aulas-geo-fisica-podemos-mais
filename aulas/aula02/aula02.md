@@ -338,6 +338,8 @@ PARA IR ALÉM:
 - Na região amazônica, há jazidas de ouro espalhadas
 - Áreas de sedimentação separam/recobrem os escudos cristalinos; jazidas de carvão (RS, SC, PR), urânio (GO)
 
+---
+
 ### Principais minérios no Brasil
 
 <object data="assets/recursos_minerais.pdf" type="application/pdf" class="stretch"></object>
