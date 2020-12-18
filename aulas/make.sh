@@ -9,7 +9,6 @@ output_html=$DIR/aula$N.html
 pandoc \
     $input_md -o $output_slide -t revealjs \
     --standalone \
-    --self-contained \
     --from markdown-markdown_in_html_blocks-native_divs \
     --from markdown+pipe_tables \
     --resource-path=.:$DIR \
@@ -21,7 +20,6 @@ pandoc \
     $input_md -o $output_html \
     --resource-path=.:$DIR \
     --standalone \
-    --self-contained \
     --table-of-contents \
     --reference-location=block \
     --from markdown+pipe_tables \

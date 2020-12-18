@@ -153,17 +153,17 @@ title: aula 04
   - Troposfera: camada mais baixa onde a temperatura diminui com a altitude. 75% do volume dos gases e 80% da umidade estão aqui. É onde ocorrem os movimentos verticais do ar e fenômenos climatológicos
   - Estratosfera: a temperatura aumenta com a altitude. O ar é limpo e claro (sem vapor d'água). Presença da camada de ozônio
   - Mesosfera: temperatura volta a cair com a altitude, chegando a -95ºC
-  - Termosfera: temperatura aumenta com altitude, chegando a 1000 ºC a 350km de altura, devido às partículas ionizadas pela radiação solar (?). Ar de baixa densidade
+  - Termosfera: temperatura aumenta com altitude, chegando a 1000 ºC a 350km de altura, devido às partículas ionizadas pela radiação solar. Ar de baixa densidade
 
 ### Clima
 
 - As características de um clima são definidas a partir da observação de seus elementos formadores e fatores modificadores
-  - Temperatura (Massas de ar, Altitude, Latitude, Continentalidade, Marítmidade, Vegetação); Umidade (Temperatura, Continentalidade, Marítmidade, Vegetação, Massas de ar); Pressão atmosférica (Altitude, Latitude, Temperatura)
-  - Elementos climáticos: os que compõe o clima; Fatores climáticos: aqueles que afetam os elementos climáticos
+  - **Temperatura** (Massas de ar, Altitude, Latitude, Continentalidade, Marítmidade, Vegetação); Umidade (Temperatura, Continentalidade, Marítmidade, Vegetação, Massas de ar); **Pressão atmosférica** (Altitude, Latitude, Temperatura)
+  - <u>Elementos climáticos</u>: os que compõe o clima; <u>Fatores climáticos</u>: aqueles que afetam os elementos climáticos
 
 ### Temperatura
 
-- É o estado térmico da atmosfera. A atmosfera é aquecida pelas radiações de calor emitidas pela Terra e principalmente pelo Sol
+- É o **estado térmico da atmosfera**. A atmosfera é aquecida pelas radiações de calor emitidas pela Terra e principalmente pelo Sol
 - Não é a mesma para todos os lugares da Terra. 
   - Está sujeita a variações provocadas por diversos fatores: latitude, altitude, continentalidade, maritimidade, vegetação, massass de ar e estações do ano. 
   - Temperatura média do planeta ~= 17ºC
@@ -187,8 +187,8 @@ title: aula 04
 
 ### Correntes marítimas
 
-- São extensas porções de água que se deslocam pelo oceano. Ocorrem quase sempre nas mesmas direções, como se fossem "rios" dentro do mar, movimentadas pela ação dos ventos e pela rotação da Terra.
-  - Diferenciam-se das águas próximas aos continentes em temperatura, salinidade e direção. 
+- São extensas porções de água que se deslocam pelo oceano. 
+- Diferenciam-se das águas próximas aos continentes em temperatura, salinidade e direção. 
   - Nas proximidades dos círculos polares, originam-se correntes marítimas frias, que se deslocam na direção da Zona Intertropical. Aos se misturarem com águas dos mares quentes, elas se aquecem e retornam para as altas latitudes, reiniciando o ciclo.
 - Carregam consigo porções de ar com temperaturas de suas áreas de origem. 
   - Desse modo, influencia nas médias térmicas e pluviométricas das fachadas litorâneas e em certos casos também nos interiores dos continentes.
@@ -199,7 +199,7 @@ title: aula 04
 
 ### Pressão atmosférica
 
-- Força que o ar exerce sobre superfície terrestre, relacionada com a força da gravidade. Pode modificar-se com a temperatura e altitude (?)
+- Força que o ar exerce sobre superfície terrestre, relacionada com a força da gravidade. Pode modificar-se com a temperatura e altitude.
 
 ### Altitude
 
@@ -239,8 +239,8 @@ title: aula 04
 ### Umidade
 
 - Presença de vapor d'água na atmosfera, proveniente da evaporação e evapotranspiração. Varia de um lugar para outro de acordo com a radiação solar recebida
-  - Continentalidade e maritimidade: maior maritimidade -> maior umidade; maior continentalidade -> menor umidade
-  - Altitude: dependendo da temperatura, o ar contem mais ou menos vapor d'água - capacidade higrométrica. Quanto maior a altitude, menor a temperatura e então, menor a umidade também
+  - Quanto maior <u>maritimidade</u> -> maior umidade; E quanto maior <u>continentalidade</u> -> menor umidade
+  - <u>Altitude</u>: dependendo da temperatura, o ar contem mais ou menos vapor d'água - capacidade higrométrica. Quanto maior a altitude, menor a temperatura e então, menor a umidade também
 
 1. Umidade absoluta: quantidade de vapor contido em um determinado volume de ar (g/m³)
 2. Umidade relativa: relação entre umidade absoluta do ar e sua capcidade higrométrica - quando o ar efetivamente possui de vapor, e quanto pode conter
@@ -255,7 +255,7 @@ title: aula 04
 
 ## Climogramas
 
-- Gráficos que representam qtd de chuva e temperatura de uma localidade ao longo dos meses; Marca características do clima
+- Gráficos que representam quantidade de chuva e temperatura de uma localidade ao longo dos meses; Marca características do clima
 - Alguns aspectos para análise:
   - Chuvas: total de precipitações; distribuição ao longo do ano; meses mais e menos chuvosos; perídos de seca
   - Temperaturas: mês de temperatura mais e menos elevada; amplitude térmica
