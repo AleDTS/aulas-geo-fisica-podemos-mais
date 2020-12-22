@@ -1,12 +1,12 @@
 ---
 author: Alexandre Tomy
 title: Aula 04 - Climatologia
-date: 03/12/2020
+date: 17/12/2020
 
 # revealjs
 
-# include-after: |
-#   <script> Reveal.configure({ showNotes: "separate-page" }) </script>
+include-after: |
+  <script> Reveal.configure({ showNotes: "separate-page" }) </script>
 
 theme: "serif"
 hash: true
@@ -14,7 +14,7 @@ slideNumber: true
 width: 800
 heigth: 600
 hashOneBasedIndex: false
-showNotes: false
+showNotes: true
 ---
 
 # Climatologia
@@ -44,9 +44,7 @@ PARA IR ALÉM:
 
 ### Clima X Tempo | Exercício mental
 
-(por motivos de pandemia!)
-
-- “Se de repente você chegasse a algum lugar - quais pistas lhe diriam como o clima seria?”
+| “Se de repente você chegasse a algum lugar - quais pistas lhe diriam como o clima seria?”
 
 ::: notes
 
@@ -67,6 +65,10 @@ PRINCÍPIOS:
 - A vegetação segue as condições climáticas.
   - Plantas desenvolveram características únicas ligadas à precipitação e temperatura, assim como nós humanos com nossas roupas e construções.
 
+REFERÊNCIA:
+
+- [Clima na chegada | Geoideias: Earthlearningidea](https://www.ige.unicamp.br/geoideias/wp-content/uploads/sites/20/2020/05/324_Climate_on_arrival-pt-1-convertido.pdf)
+
 :::
 
 ---
@@ -86,7 +88,7 @@ PRINCÍPIOS:
 
 PARA IR ALÉM:
 
-- Vídeo (3:47): [Interrelação Clima e Relevo](https://www.youtube.com/watch?v=hJ54uEwJLK0&list=UUAgrj2RiWWwJx4vwNCrQC2A&index=7) 
+- Vídeo (3:47): [Interrelação Clima e Relevo](https://www.youtube.com/watch?v=hJ54uEwJLK0&list=UUAgrj2RiWWwJx4vwNCrQC2A&index=7)
 
 :::
 
@@ -136,7 +138,7 @@ CONCEITOS
 
 ## Correntes marítimas
 
-<object data="assets/mundo_clima_e_correntes_maritimas.pdf" type="application/pdf" class="stretch"></object>
+<object data="assets/mundo_clima_e_correntes_maritimas.pdf" type="application/pdf"></object>
 
 ::: notes
 
@@ -164,21 +166,25 @@ CONCEITOS
 
 ::: {.column}
 
-![](assets/centro_alta_pressao.gif){.stretch "width=300"}
+![](assets/centro_alta_pressao.gif){.stretch}
 
 :::
 
 ::: {.column}
 
-![](assets/centro_baixa_pressao.gif){.stretch "width=300"}
+![](assets/centro_baixa_pressao.gif){.stretch}
 
 :::
 
 ::::::
 
+::: notes
+
+- O ar fica mais comprimido com baixas temperaturas, pesando mais; já em locais com temperaturas mais altas, as partículas de ar ficam mais dilatadas, pesando menos
+
+:::
+
 ---
-
-
 
 :::::: {.columns}
 
@@ -188,7 +194,7 @@ CONCEITOS
 
 - Ventos são deslocamento de ar de áres de alta pressão (dispersoras de vento) para locais de baixa pressão (receptoras de vento)
 
-
+<br>
 
 ### Massas de ar
 
@@ -198,15 +204,13 @@ CONCEITOS
 
 :::{.column}
 
-![](assets/brisa.png){.stretch "height=400"}
+![](assets/brisa.png){.stretch}
 
 :::
 
 ::::::
 
 ::: notes
-
-- O ar fica mais comprimido com baixas temperaturas, pesando mais; já em locais com temperaturas mais altas, as partículas de ar ficam mais dilatadas, pesando menos
 
 VENTOS:
 
@@ -287,7 +291,7 @@ PARA IR ALÉM:
 
 ## Clima no Brasil
 
-<object data="assets/brasil_clima.pdf" type="application/pdf" class="stretch"></object>
+<object data="assets/brasil_clima.pdf" type="application/pdf"></object>
 
 ::: notes
 
@@ -296,19 +300,31 @@ PARA IR ALÉM:
 - Caracterizado pelas condições de **tropicalidade** - climas quentes e úmidos com temperatura média de 20ºC e amplitude térmica < 6ºC
 - Avanços e recuos das massas de ar determinam o clima, pois marcam características de tempo (quente, frio, seco). São condicionadas pela altitude do relevo e a posição geográfica do território
 
+PARA IR ALÉM:
+
+- [Quando o sertão do Nordeste e o Saara eram verdes](https://revistapesquisa.fapesp.br/quando-o-sertao-do-nordeste-e-o-saara-eram-verdes/) - Mudanças na insolação e no clima ao longo dos últimos 10 mil anos devem ter moldado as paisagens atuais na América do Sul e África
+
 :::
 
 # Problemas Climáticos
 
 ---
 
-<video width="320" height="240" class="stretch" controls>
-  <source src="https://flac-pmd-ngeo.akamaized.net/video/FLAC_FOD_BRA/925/295/1097259587912_4056000.mp4" type="video/mp4">
-</video>
+![[101 Clima: causas e efeitos | NatGeo](https://www.nationalgeographicbrasil.com/video/tv/101-mudancas-climaticas-aquecimento-global-efeito-estufa-conservacao)](https://flac-pmd-ngeo.akamaized.net/video/FLAC_FOD_BRA/925/295/1097259587912_4056000.mp4){data-external="1"}
+
+::: notes
+
+PARA IR ALÉM:
+
+- [Mudança climática: do aquecimento da Terra ao colapso ecológico](https://www.nexojornal.com.br/explicado/2019/06/16/Mudan%C3%A7a-clim%C3%A1tica-do-aquecimento-da-Terra-ao-colapso-ecol%C3%B3gico#section-196) - Aceleração da atividade econômica trouxe prosperidade, mas poluentes afetam a atmosfera e as temperaturas, com riscos para o ambiente e a vida no planeta. Entenda os aspectos que envolvem o tema no século 21
+
+:::
 
 ---
 
 ## Efeito estufa
+
+<iframe src="https://www.youtube-nocookie.com/embed/soicSlswjOk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ::: notes
 
@@ -324,13 +340,14 @@ PARA IR ALÉM:
   - Advento do tear a vapor aumenta consumo de combustíveis fósseis (carvão) ao longo do século XIX
   - IPCC (Painel Intergovernamental sobre Mudanças Climáticas) aponta que desde 1750 teria havido crescimento de 35% na qtd de CO2 na atm
 - Contribuição para o efeito estufa intensificado: CO2 (70%), CH4 (22%), N2O (6%), outros (2%)
-- Maiores emissores *
 
 ::: 
 
 ---
 
 ## Protocolo de Kyoto
+
+![](assets/paises_emissoes.png){.stretch}
 
 ::: notes
 
@@ -349,11 +366,17 @@ PARA IR ALÉM:
   - 193 países propuseram metas voluntárias para reduzir impactor do Aquecimento Global
   - Acordo de París estabelece que todos os países deverão se mobilizar para conter aumento da temperatura média do planeta neste século
 
+PARA IR ALÉM:
+
+- [O Brasil e as mudanças climáticas](https://pp.nexojornal.com.br/linha-do-tempo/2020/O-Brasil-e-as-mudan%C3%A7as-clim%C3%A1ticas) - O país já teve papel de destaque nas negociações internacionais do clima. Hoje em dia, no entanto, há preocupação com as decisões nacionais 
+
 :::
 
 ---
 
 ## "Buraco" na camada de ozônio
+
+<iframe src="https://www.youtube-nocookie.com/embed/Ck_mRXHdUw4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ::: notes
 
@@ -376,7 +399,7 @@ PARA IR ALÉM:
 
 ## Chuva ácida
 
-:: notes
+::: notes
 
 - Toda chuva é ácida em função da presença do CO2 na atmosfera. 
   - Emissões de SO2 e NO2 - provenientes da queima de combustíveis fósseis em termelétricas, setor de transportes e industrias - misturam esses elementos ao vapor d'água da atm, produzindo chuva mais ácida que a natural, com maior poder de corrosão
@@ -418,6 +441,8 @@ PARA IR ALÉM:
 
 ## El ninõ e la ninã
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/oF4naKtTo6o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ::: notes
 
 - El niño é caracterizado pelo aquecimento (3 - 7ºC) das águas do Oceano Pacífico, nos litorais do Peru e Equador, ocorrendo em períodos de 2 a 7 anos.
@@ -442,5 +467,12 @@ La Ninã
 - Consiste no resfriamento das águas do Pacífico ocidental, alterando as zonas de alta e baixa pressão, o que provoca mudanças na direção dos ventos e massas de ar.
   - Ocorre com frequência aproximada de 2 - 7 anos com duração de 14 meses; Sabe-se menos sobre ele do que o El Ninõ
 - Influencia no aumento de chuvas, tempestades, furacões e invernos recordes na América do Norte; chuvas intensas na Índia e Indonésia, diminuindo temperatura nas proximidades do Japão; chuva e frio na África Meridional; frio e secas no Chile e no Peru.
+
+:::
+
+---
+
+
+::: notes
 
 :::

@@ -8,7 +8,7 @@ output_html=$DIR/aula$N.html
 
 pandoc \
     $input_md -o $output_slide -t revealjs \
-    --standalone \
+    --self-contained \
     --from markdown-markdown_in_html_blocks-native_divs \
     --from markdown+pipe_tables \
     --resource-path=.:$DIR \
@@ -19,7 +19,7 @@ pandoc \
 pandoc \
     $input_md -o $output_html \
     --resource-path=.:$DIR \
-    --standalone \
+    --self-contained \
     --table-of-contents \
     --reference-location=block \
     --from markdown+pipe_tables \
@@ -29,6 +29,6 @@ pandoc \
 
 pandoc \
     ../README.md -o ../index.html -f gfm \
-    --standalone \
+    --self-contained \
     --css=https://pandoc.org/demo/pandoc.css \
     --metadata title="Aulas de geografia física"

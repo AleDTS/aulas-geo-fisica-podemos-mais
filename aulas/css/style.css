@@ -6,3 +6,13 @@ a {
 :not(nav) li {
     margin-top: 1em;
 }
+
+iframe, embed, object, video, img {
+    width: 100%;
+    max-width: 720px;
+    height: 405px;
+}
+
+img {
+    height: auto;
+}

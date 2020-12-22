@@ -3,18 +3,6 @@ body {
     text-align: justify;
 }
 
-img {
-    width: 100%;
-    max-width: 600px;
-    height: auto;
-}
-
-iframe, embed, object {
-    width: 100%;
-    max-width: 600px;
-    height: 400px;
-}
-
 div.notes {
     font-size: 80%;
 }

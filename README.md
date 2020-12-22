@@ -15,6 +15,11 @@ Aulas de geografia física para o Cursinho Popular Podemos + unidade Mauá
 - Página ([`html` :iphone: :arrow_forward:](aulas/aula03/aula03.html))
 - Slide ([`pdf`](aulas/aula03/aula03-slide.pdf), [`html` :arrow_forward:](aulas/aula03/aula03-slide.html))
 
+## Aula 04 - :thermometer: Climatologia
+
+- Página ([`html` :iphone: :arrow_forward:](aulas/aula04/aula04.html))
+- Slide ([`pdf`](aulas/aula04/aula04-slide.pdf), [`html` :arrow_forward:](aulas/aula04/aula04-slide.html))
+
 ---
 
 :iphone: - bom pra ver no celular
