@@ -1,9 +1,3 @@
----
-author: Alexandre Tomy
-title: Fontes de Energia
-date: 03/12/2020
----
-
 # Fontes de Energia
 
 - A partir da Revolução Industrial até os dias de hoje, vem ocorrendo uma substituição gradual da energia baseada na força animal e humana por fontes energéticas., que surgiram de modo a atender a demanda da produção industrial e o crescimento das atividades econômicas
@@ -117,7 +111,7 @@ date: 03/12/2020
 3. Sol: maior parte do território nacional está em zona intertropical (ótima incidência de solar), porém pouco é aproveitado; 
    1. Plano Nacional de Energia 2030 registra que o Nordeste possui radiação comparável às melhores regições do mundo
 
-<!-- # Referências
+# Referências
 
 - Apostila Me Salva!  - Volume 2, capítulo 07
 - [Setor energético | Nexo PP](https://pp.nexojornal.com.br/glossario/Setor-energ%C3%A9tico)
@@ -147,4 +141,4 @@ date: 03/12/2020
 
 [Rompimento de barragem em Brumadinho | Wikipédia](https://pt.wikipedia.org/wiki/Rompimento_de_barragem_em_Brumadinho)
 
-[Satélite mostra a mina, a barragem, Brumadinho e o rio Paraobepa quatro dias depois do desastre]( -->
+[Satélite mostra a mina, a barragem, Brumadinho e o rio Paraobepa quatro dias depois do desastre](
