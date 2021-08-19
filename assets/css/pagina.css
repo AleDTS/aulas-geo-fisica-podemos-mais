@@ -1,0 +1,16 @@
+body {
+    font-size: larger;
+    text-align: justify;
+}
+
+div.notes {
+    font-size: 80%;
+}
+
+div.notes::after {
+    content: "---";
+}
+
+div.notes::before {
+    content: "--- Notas";
+}

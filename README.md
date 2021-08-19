@@ -1,9 +1,6 @@
 ---
 title: "Aulas de geografia física"
 subtitle: "Turma 2021 do cursinho popular podemos+"
-description: 
-header-includes: |
-    <style> #img-footer { width: inherit; } </style>
 ---
 
 
