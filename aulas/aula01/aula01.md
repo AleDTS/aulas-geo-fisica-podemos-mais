@@ -8,8 +8,9 @@ touch: true
 theme: "serif"
 hash: true
 slideNumber: true
+showNotes: true 
 width: 800
-heigth: 600
+height: 600
 ---
 
 # Geografia

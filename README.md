@@ -1,4 +1,11 @@
-Aulas de geografia física para o Cursinho Popular Podemos + unidade Mauá
+---
+title: "Aulas de geografia física"
+subtitle: "Turma 2021 do cursinho popular podemos+"
+description: 
+header-includes: |
+    <style> #img-footer { width: inherit; } </style>
+---
+
 
 ## Aula 01 - 🔭 Astronomia
 
@@ -15,3 +22,5 @@ Aulas de geografia física para o Cursinho Popular Podemos + unidade Mauá
 📲 - bom pra ver no celular
 
 ⬇ - bom pra baixar, porém, sem conteúdos de mídia (gifs/vídeos)
+
+![](assets/podemosmais8.png){width=100%}
