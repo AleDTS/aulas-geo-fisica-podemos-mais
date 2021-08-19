@@ -1,12 +1,10 @@
 ---
 author: Alexandre Tomy
-title: Aula 01 - Cartografia / Geomorfologia
-date: 06/11/2020
-
-include-after: |
-  <script> Reveal.configure({ showNotes: "separate-page" }) </script>
+title: Aula 01 - Astronomia
+date: 04/08/2021
 
 # revealjs
+touch: true
 theme: "serif"
 hash: true
 slideNumber: true
@@ -14,396 +12,231 @@ width: 800
 heigth: 600
 ---
 
-# Cartografia
+# Geografia
 
-## Projeções cartograficas
+## Conceitos da Geografia
 
-Todo mapa revela uma determinada visão de mundo!
 
-:::: {.columns}
-::: {.column}
+A Geografia é a ciência que estuda a **organização do espaço** pelo Homem
 
-Projeção de Mercator
+<details>
+<summary>
+O **objeto de estudo** da Geografia está nas relações **entre os homens** e **entre os homens e a natureza**
+</summary>
+    tudo aquilo que podemos visualizar, sentir a textura, fotografar, mapear, enfim, as manifestações concretas da natureza e da sociedade
+</details>
 
-![](img/mercator.jpg){.stretch}
+---
 
-- Mantém forma e não proporção (áreas distorcidas)
-- Eurocentrismo
+O **objetivo** dos conhecimentos produzidos pela Geografia é contribuir para o entendimento do mundo atual
+
+<details>
+<summary>
+As observações dos céus e dos solos produziram fatos e informações para que formassem o **conhecimento geográfico**
+</summary>
+    A Geografia é dividida em disciplinas agrupadas em duas vertentes, que se contradizem e se complementam: Geografia Física (ciências da natureza) e a Geografia Humana (ciências humanas).
+</details>
+
+---
+
+# Astronomia
+
+## Universo
+
+<details>
+<summary>
+O Universo originou-se de uma gigantesca explosão, chamada de **Big Bang**, que ocorreu entre 15 e 10 bilhões de anos atrás
+</summary>
+    Toda matéria que existe formou-se em uma fração de segundo, em um espaço infinitamente pequeno, e estendeu-se a uma velocidade incrível, de maneira simultânea. À medida que o Universo se expandia, as temperaturas extremamente altas da matéria expelida diminuíam. Com esse resfriamento, as diminutas partículas fundamentais se combinaram e formaram prótons e nêutrons, que por sua vez formaram os átomos dos gases hidrogênio e hélio. Esses gases formam na atualidade a maior parte do Universo.
+    Segundo estudos atuais, o Universo continua se expandindo. Talvez um dia esse movimento possa se deter, ocorrendo uma contração final, chamada pelos cientistas de Big Crunch.
+</details>
+
+![Trecho do programa [Astrolab | Origens do Universo](https://www.youtube.com/watch?v=WQQ6nQuje80&t=5s)](assets/astro_bexiga-big-bang.gif)
+
+::: notes
+
+<details>
+<summary>
+É como uma bexiga enchendo...
+</summary>
+    Teoria do big bang surge a partir das observações de Hubble, que mensurou as distâncias entre as galáxias e mostrou que elas estavam se afastando uma das outras. Se elas se afastam, um dia elas deveriam estar juntas.
+    Imaginem uma bexiga, com desenhos de muitas pequenas estrelas. Agora vamos encher a bexiga, e conforme isso acontece, as estrelas vão se afastando uma das outras. Elas não mudam de tamanho, mas o espaço entre elas (na borracha) que aumenta. Com o Universo acontece o mesmo, as distâncias aumentam conforme passa o tempo.     
+    Ainda na bexiga, imaginem que somos uma formiga, que anda pela superfície, mas não conseguimos olhar para cima ou para baixo. Estas somos nós no Universo, que enxergamos em 3 dimensões (3D), e para onde ele se expande é a 4ª dimensão, ou seja, o tempo. Nós só temos acesso à essa dimensão, quando chegamos lá.
+</details>
 
 :::
-::: {.column}
 
-Projeção de Peters
+---
 
-![](img/peters.jpg){.stretch}
+## Sistema Solar
 
-- Alterou fromas para manter proporção
-- Valorização do mundo subdesenvolvido
+<details>
+<summary>
+É composto pelo Sol e todos os corpos celestes que orbitam ao seu redor
+</summary>
+    que incluem oito planetas e seus respectivos satélites naturais (como é o caso de nossa Lua), os planetas-anão (Plutão, Ceres, Makemake, Haumea e Eris) e seus satélites, bem como os asteroides, cometas e outras incontáveis partículas.
+</details>
+
+![](assets/astro_sistema-solar.png)
+
+---
+
+<details>
+<summary>
+Várias teorias já foram lançadas para explicar a posição da Terra no Sistema Solar.
+</summary>
+    O Sistema Geocêntrico afirmava que a Terra era fixa e o centro do Universo. No século XVI, Nicolau Copérnico propôs a teoria do Sistema Heliocêntrico afirmando que "o Sol é o centro de nosso sistema planetário e os planetas giram ao seu redor em orbitas circulares" Johannes Kepler, no início do século XVII, foi quem demonstrou que na verdade as órbitas são elípticas.
+</details>
+
+---
+
+## Mecânica celeste
+
+<details>
+<summary>
+As **Leis de Kepler** nos diz que a órbita de um planeta é **elíptica**. Na aplicação abaixo, experimente lançar um corpo ao redor do Sol.
+</summary>
+    Por ter uma órbita elíptica, em determinado momento o corpo estará mais próximo do Sol (chamado de afélio), no outro estará mais distante (periélio).
+</details>
+
+<iframe src="https://galileoandeinstein.phys.virginia.edu/more_stuff/Applets/Kepler/kepler.html" frameborder="1" title="Simulação das Leis de Kepler" allowfullscreen="true"></iframe>
+
+::: notes
+
+Quanto mais distante um planeta está do Sol, mais devagar ele se move!
+
+[Simulação das Leis de Kepler](https://galileoandeinstein.phys.virginia.edu/more_stuff/Applets/Kepler/kepler.html)
 
 :::
-::::
+
+---
+
+## Movimentos da Terra e estações do ano
+
+<details>
+<summary>
+A Terra tem dois movimentos principais: **rotação** e **translação**
+</summary>
+    A rotação em torno de seu eixo é responsável pelo ciclo dia-noite. 
+    A translação se refere ao movimento da Terra em sua órbita elíptica em torno do Sol.
+</details>
+
+![Movimentos de translação/rotação e as estações do ano](assets/astro_movimentos-estacoes.gif)
+
+::: notes
+
+<details>
+<summary>
+As estações do ano não ocorrem pela variação da proximidade da Terra e o Sol, mas sim como consequência do eixo inclinado da Terra.
+</summary>
+    Se assim fosse, teríamos na mesma época do ano a mesma estação nos dois hemisférios, o que não é verdade, pois quando é verão no hemisfério norte é inverno no hemisfério sul e vice-versa.
+</details>
+
+:::
+
+---
+
+<details>
+<summary>
+Mas o eixo do Globo Terrestre é inclinado em relação a quê?
+</summary>
+    A  Terra  gira  em  um  eixo  inclinado  em  relação  a  um  plano  imaginário  que passa ao mesmo tempo pelo seu centro e pelo centro do Sol. Esse plano imaginário é o plano da órbita ou eclíptica terrestre que forma um ângulo agudo de 23º 27’ com o  plano  do  Equador.
+</details>
+
+![Posição da Terra](assets/astro_terra-posicao.png)
+
+---
+
+<details>
+<summary>
+Por conta dessa inclinação, a luz solar não atinge igualmente os dois hemisférios, a consequência disso são as estações do ano.
+</summary>
+    numa dada época do ano, um dos hemisférios fica mais voltado para o Sol. Isso resulta em estações do ano opostas: quando é verão no hemisfério norte, é inverno no sul; quando é primavera no norte, é outono no sul, e assim sucessivamente. As estações do ano, portanto, também podem ser consideradas uma das consequências do movimento de translação da Terra.
+</details>
+
+![Quanto mais vertical (maior ângulo) estão os raios solares, mais concentrados eles estão (radiação solar será mais intensa nessa área)](assets/astro_angulo-sol.png)
+
+---
+
+<details>
+<summary>
+Equinócio e solstício
+</summary>
+    Há 4 dias com especial significado na variação anual dos raios solares em relação à Terra. No dia 21 ou 22/12 os raios solares incidem verticalmente no Trópico de Capricórnio. Este é o solstício de verão para o Hemisfério Sul (HS). Em 21 ou 22/6 eles incidem verticalmente no Trópico de Câncer. Este é o solstício de inverno para o HS. A meio caminho entre os solstícios ocorrem os equinócios (dias e noites de igual duração). Nestas datas os raios verticais do Sol atingem o equador (latitude = 0°). No HS o equinócio de primavera ocorre em 22 ou 23 de setembro e o de outono em 21 ou 22 de março.
+</details>
+
+![Relações entre o Sol e a Terra](assets/astro_sol-terra.png)
+
+---
+
+## Lua
+
+<details>
+<summary>
+As _fases da lua_ resultam do seu movimento de **translação** e do fato de que ela não é um corpo luminoso, mas um corpo iluminado pela luz Solar.
+</summary>
+    Translação: movimento que a lua realiza em torno da Terra. Dura ~27 dias; a órbita descrita é elíptica, e possui inclinação de 5º com o plano da órbita terrestre. O efeito disso são as fases da lua.
+    Rotação: movimento de giro sobre seu próprio eixo, com duração de ~27 dias. Por estar sincronizada com a translação, sempre vemos o mesmo lado da lua.
+    Revolução: movimento realizado, junto com a Terra, ao redor do Sol. Dura ~365 dias.
+
+![As quatro fases da Lua vista do hemisfério sul: minguante, cheia, crescente e nova](assets/astro_fases-lua.png)
+
+</details>
+
+![Uma volta completa da lua em Janeiro/2018, vista do hemisfério sul. Repare nas posições dos astros (incusive o Sol) e nas zonas de sombra e iluminação.](assets/astro_fases-lua-2018.gif)
 
 ::: notes
 
 REFERÊNCIAS:
 
-- [Projeções de Mercator e Peters:
-Diferentes maneiras de ver o Mundo!](https://geoprofessora.blogspot.com/2008/09/mercator-x-peters.html)
-
-PARA IR ALÉM:
-
-- [[PodTerritorial] Professor da Unesp explica o que é Cartografia Geográfica Crítica](https://podcast.unesp.br/15548/podterritorial-professor-da-unesp-explica-o-que-e-cartografia-geografica-critica) - Eduardo Paulon Girardi, especialista em geografia agrária da Unesp em Presidente Prudente e membro da Rede Dataluta, explica o que é Cartografia Geográfica Crítica.
+["Fases Lunares, 2018 Hemisfério sul"](https://svs.gsfc.nasa.gov/4605)
 
 :::
 
 ---
 
-### O "Hack" do Google Maps
+### Eclipse
 
-![](img/gmaps_hack.jpeg){.stretch}
+<details>
+<summary>
+Um **eclipse** ocorre quando um corpo entra na sombra do outro.
+</summary>
+    A órbita da Terra (em torno do Sol) e a órbita da Lua (em torno da Terra) não estão no mesmo plano, se assim fosse, ocorreria um eclipse lunar a cada Lua Cheia, e um eclipse solar a cada Lua Nova. Só ocorrerão eclipses quando a Lua estiver nas fases Cheia ou Nova e quando o Sol estiver na linha dos nodos, que é a linha de intersecção dos planos das duas órbitas.
+</details>
 
-::: {#gmaps-hack}
-:::
-
-<script> 
-  var gmapsHack = '<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/k5eL_al_m7Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>';
-
-  if ( !( window.location.search.match( /print-pdf/gi )) ) {
-    document.getElementById('gmaps-hack').insertAdjacentHTML('beforeend', gmapsHack);
-  }
-</script>
+![Planos das órbitas terrestre e lunar](assets/astro_plano-orbitas.png)
 
 ::: notes
 
 REFERÊNCIAS:
 
-- [Google Maps Hacks (em inglês)](http://www.simonweckert.com/googlemapshacks.html)
-
-PARA IR ALÉM:
-
-- [Os territórios que o Google Maps esconde - Outras Palavras](https://outraspalavras.net/tecnologiaemdisputa/os-territorios-que-o-google-maps-esconde/) - Palestina, Caxemira e outros espaços que o poder global quer esconder são quase apagados, nos mapas da gigante da internet. Em seu lugar, um leve tracejado, sinal de que podem desaparecer. Há alternativa: o OpenStreetMap, plataforma livre
+[Eclipse Solar :: 29 Março 2006](https://www.astro.up.pt/caup/eventos/2006Mar29/ciencia.php)
 
 :::
 
 ---
 
-## Mais materiais
+### Marés
 
+<details>
+<summary>"Maré alta" e "maré baixa" são os termos que usamos pra descrever os oceanos em determinadas épocas do ano. Este fenomeno chamado **efeito maré** tem a ver com a posição da Lua!
+</summary>
+As **marés** ocorrem devido às deformações sofridas pelas massas líquidas dos oceanos, provocadas pelas **atrações da Lua e do Sol**
 
-- Boa explicação sobre:
-  - Cartografia: [IBGE | Atlas Escolar | conceitos gerais | o que é cartografia?](https://atlasescolar.ibge.gov.br/conceitos-gerais/o-que-e-cartografia)
-  - Astronomia: [IBGE | Atlas Escolar | a terra | nosso planeta no universo](https://atlasescolar.ibge.gov.br/a-terra/nosso-planeta-no-universo)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/sYss-N7EnEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</details>
 
-
-# Geomorfologia
-
-## Camadas da Terra
-
-:::: {.columns}
-::: {.column width="60%"}
-
-- **Núcleo**: sólido - composto por ligas metálicas;
-- **Manto**: pastoso - rochas derretidas;
-- **Crosta**: oceânica e continental.
-
-:::
-::: {.column width="40%"}
-
-![](img/camadas.png){.rt-stretch}
-
-:::
-::::
-
-<u>LITOSFERA</u>: Camada sólida mais externa constituída por rochas e solo e que sofre forças internas do manto e núcleo.
+![Influência do efeito maré da Lua sobre a Terra. Teremos maré alta e baixa em pontos opostos, não apenas do "lado" onde estiver a Lua](assets/astro_mare-lua.png)
 
 ---
 
-## Teoria da deriva continental
+## Referências e materiais complementares
 
-- Há 250 milhões de anos, os continentes estavam agrupados em um único (<u>pangeia</u>) - Alfred Wegener, 1915
-
-![](img/formacao_dos_continentes.gif){ .stretch }
-
-- Então, a pangeia começa a se fragmentar em **massas de terra** emersas.
-
-::: notes
-
-REFERÊNCIAS:
-
-- [IBGE | Atlas Escolar | a terra | formação dos continentes](https://atlasescolar.ibge.gov.br/a-terra/formacao-dos-continentes)
-
-:::
+<details>
+<summary>
+[Astrolab | Youtube](https://www.youtube.com/playlist?list=PLTKZh-tngi2VcRTo4LmyXkmuV_qP3DWjc)
+</summary>
+    Astrolab é um programa da TV Unesp em parceria com o Observatório Astronômico 'Lionel José Andriatto' da Unesp de Bauru. Ele visa divulgar curiosidades, dados, teorias e novidades da astronomia com uma linguagem acessível, para curiosos de todas as idades!
+</details>
 
 ---
-
-### Evidências
-
-- Linhas da costa Atlântica da América do Sul e da África que se encaixam;
-- Fósseis encontrados nos dois continentes que viveram na mesma época;
-- Formações rochosas coincidentes;
-
-![](img/continentes_1.gif){.stretch}
-
----
-
-![](img/pangea_mapa.jpg){.stretch}
-
-[Mapa da Pangeia mostra onde ficariam os países no supercontinente](https://www.nexojornal.com.br/expresso/2019/09/04/Este-mapa-mostra-onde-os-pa%C3%ADses-estariam-na-Pangeia)
-
-::: notes
-
-PARA IR ALÉM:
-
-- [Este mapa mostra como a superfície do planeta mudou em 600 milhões de anos](https://dinosaurpictures.org/ancient-earth#0) ([1](https://www.nexojornal.com.br/expresso/2018/05/14/Este-mapa-mostra-como-a-superf%C3%ADcie-do-planeta-mudou-em-600-milh%C3%B5es-de-anos), [2 (inglês)](https://www.smithsonianmag.com/smart-news/map-lets-you-plug-your-address-see-how-neighborhood-has-changed-over-past-750-million-years-180971507/))
-
-:::
-
----
-
-## Tectônica de Placas
-
-- A partir da **deriva continental**, a teoria da **tectônica de placas** se consolida nos anos 1960.
-- A **crostra terrestre** é fragmentada em **placas tectônicas** que se movimentam devido a dinâmica interna da Terra (correntes de convecção).
-
-![](img/convection.gif){ .stretch }
-
----
-
-### Limites entre as placas
-
-- São áreas de instabilidade geológica. O deslocamento das placas provoca **dobramentos**, **falhas**, **vulcanismo** e **terremotos**.
-
-![](img/placas_tectonicas.png){ .stretch }
-
----
-
-![](img/choque_de_placas.gif){ .stretch }
-
-<u>Limites convergente</u>: colidem, gerando fossas ou dobramentos
-
----
-
-![](img/separacao_de_placas.gif){ .stretch }
-
-<u>Limites Divergente</u>: se separam, trazendo magma
-
----
-
-![](img/falha_transformante.gif){ .stretch }
-
-<u>Limites Transformantes</u>: deslizam, gerando falhas
-
----
-
-![](img/san_andreas.jpg){ .stretch }
-
-[Falha de San Andreas](https://pt.wikipedia.org/wiki/Falha_de_Santo_Andr%C3%A9)
-
----
-
-## Estrutura geológica da Terra
-
-- É o conjunto de diferentes rochas de um lugar e os processos geológicos sofridos por elas. 
-- São as estruturas: **Escudos** (Escudo Brasileiro); **Bacias sedimentares** (Amazônica, do Paraná, do Pantanal e do Maranhão); **Dobramentos** (Cordilheira dos Andes).
-
-![](img/estruturas_geologicas.png)
-
-::: notes
-
-- <u>Escudos</u>: primeiros núcleos de rochas que surgiram. São planaltos baixos ou depressões - formados por rochas magmáticas e metamórficas.
-- <u>Bacias sedimentares</u>: depressões preenchidas com sedimentos dos escudos. São a maior parte da superfície emersa da Terra. Aqui são encontrados combustíveis fósseis - **carvão** e **petróleo**.
-- <u>Dobramentos</u>: terrenos elevados produzidos pela tectônica de placas. Geralmente ficam na borda dos continentes. 
-
-:::
-
----
-
-### Estrutura geológica no Brasil
-
-- O Brasil está inserido na Plataforma **Sul-Americana**. Apresenta **escudos cristalinos**, **bacias sedimentares** e **dobramentos antigos**.
-- Nossos recursos minerais estão diretamente relacionados com nossa geologia.
-  - <u>Terrenos arqueozóicos</u>: **Complexo Cristalino Brasileiro** - rochas magmáticas (granito) e metamórficas (gnaisse);
-  - <u>Terrenos proterozoicos</u>: onde estão nossas riquezas minerais - **ferro** (hematita), **manganês** (pirolusita), **estanho** (cassiterita), **alumínio** (bauxita), **ouro**, **cobre**, entre outros;
-
----
-
-## Tipos de rochas
-
-- As **rochas** são compostas por grupos (diferentes ou não) de grãos de minerais agregados.
-- Dividem-se pela sua origem em:
-  - <u>Magmáticas</u>: magma solidificado. Ex.: **granito**, **basalto**;
-  - <u>Sedimentares</u>: decomposição e deposição de sedimentos de outras rochas ou detritos orgânicos. Ex.: **calcário**, **carvão**, **sal;**
-  - <u>Metamórficas</u>: alteração de outras rochas por meio de altas pressões e temperaturas. Ex.: **mármore** (vem do calcário), **gnaisse** (do granito);
-
-::: notes
-
-- <u>Magmáticas</u>: **plutônicas** (resfriamento lento do magma) ou **vulcânicas** (solidificação rápida da lava - magma na superfície)
-- <u>Sedimentares</u>: **detríticas** (outras rochas) ou **químicas** (orgânicas por acumulo ou inorgânicas por decomposição)
-
-:::
-
----
-
-## Agentes do relevo 
-
-- O **relevo** é fruto de duas forças opostas: **endógena** (interna) e **exógena** (externa).
-
----
-
-### Agentes endógenos (formadores do relevo)
-
-- <u>Tecnonismo</u>: deslocam e deformas rochas, formando a crosta. Geram as **falhas** e **montanhas**;
-- <u>Vulcanismo</u>: extravasamento do magma na superfície através das **fendas**, **fissuras** ou **corpos vulcânicos**;
-- <u>Abalos sísmicos</u>: movimento da superfície terrestre por meio de vibrações que provocam **deslocamentos**, **falhamentos**, **terremoto** (terra), **maremoto** (mar);
-
-![](img/atividades_sismicas.gif){.stretch}
-
-::: notes
-
-- <u>Vulcanismo</u>: vulcões no planeta se concentram no **círculo de fogo do Pacífico** e **do Atlântico**
-- <u>Abalos sísmicos</u>: suas causas são o **tectonismo**, **vulcanismo** e **desmoronamentos internos**. Ex.: falha de San Andreas (EUA)
-
-:::
-
----
-
-### Agentes exógenos (modeladores do relevo)
-
-- Provocam o desgaste das rochas, transportando e depositando sedimentos (**erosão**).
-  - <u>marítima</u>: linhas costeiras modeladas pelas águas do mar;
-  - <u>glacial</u>: deslocamentos das geleiras;
-  - <u>pluvial</u>: solos são desgastados e seu material carregado pelas águas da chuva;
-  - <u>fluvial</u>: ação das águas dos rios, que transportam e acumulam material, formando **vales**, **cânions**, **planicies fluviais**, **deltas**;
-  - <u>eólica</u>: mais atuânte em regiões desérticas e litorâneas e menos nas equatoriais. Vento "lixa" a rocha, acumulando e depositando em **dunas** e **solos de Loess** (muito finos e férteis);
-
----
-
-## Formas de relevo
-
-- <u>Montanhas</u>: maioria ligadas a **processos endógenos** (internos);
-- <u>Planaltos</u>: resultantes de processos erosivos prolongados;
-- <u>Depressões</u>: abaixo do nível do mar (**absolutas**) ou dos terrenos ao redor (**relativas**);
-- <u>Planicies</u>: grande extensão de terreno plano ou ondulado, pouco elevado acima do nível do mar;
-
----
-
-### Formas de relevo no Brasil
-
-- Por ser antigo, nosso relevo vem sofrendo açõa dos **agentes externos** (água e vento), e também não apresenta altas altitudes.
-- Nas **regiões úmidas**, temos formas mais suaves e arredondas, modeladas pelas águas das chuvas, rios e cachoeiras. Ex.: serras do sudeste.
-- As **regiões áridas** possuem formas mais abruptas, causadas pela desagregação das rochas e chuvas fortes e irregulares. Ex.: sertão nordestino.
-- Os rios da grande rede hidrográfica brasileira são importantes agentes de erosão e sedimentação.
-
-::: notes
-
-PARA IR ALÉM:
-
-- [Terra moldada por cheias e queimadas](https://revistapesquisa.fapesp.br/terra-moldada-por-cheias-e-queimadas/) - Água e, em menor escala, fogo influenciam a distribuição e a diversidade de plantas no Pantanal
-
-:::
-
----
-
-- Relevos predonimantes: **planaltos**, **planícies** e **depressões relativas**.
-- Alguns específicos: **serras** (dobramentos, escarpas de planaltos); **chapadas** (planalto sedimentar, de topo plano e encontas escarpadas); **inselbergs** (saliências rochosas em regiões de clima mais árido); **cuestas** (um lado escarpado e outro com declive suave).
-
-![](img/relevos_brasil.png){.stretch}
-
-::: notes
-
-REFERÊNCIAS:
-
-- [IBGE | Relevo - Unidades de relevo](https://atlasescolar.ibge.gov.br/images/atlas/mapas_brasil/brasil_unidades_de_relevo.pdf)
-
-:::
-
----
-
-![](img/relevos_brasil_1.png){.stretch}
-
----
-
-![](img/relevos_brasil_2.png){.stretch}
-
----
-
-## Solos
-
-- O **solo** é a camada mais superficial da crosta terrestre, e é resultado do **intemperismo**.
-- **Intemperismo** consiste na alteração das rochas ao ter contao com os seguintes agentes: **água**, **ar**, **mudança de temperatura** e **seres vivos.**
-  - Fatores: **clima** (variação sazonal da temperatura e distribuição das chuvas); **relevo** (infiltração e drenagem das águas pluviais); **fauna e flora** (matéria orgânica para reações químicas); **rocha parental** (sua resistência); **tempo de exposição** da rocha aos agentes.
-
----
-
-- A **Pedogênese** (formação dos solos) ocorre quando modificações causadas pelo intemperismo tornam-se estruturais, com os minerais reorganizados. Depois a fauna e a flora **modificam e movimentam materiais**, mantendo o solo aerado e renovado.
-- Os dois processos formam o **perfil do solo**, estruturado sobre a rocha matriz, formando o **manto de alteração**.
-
-::: notes
-
-PARA IR ALÉM:
-
-- [Serviço Geológico do Brasil | Os Solos](http://www.cprm.gov.br/publique/Redes-Institucionais/Rede-de-Bibliotecas---Rede-Ametista/Os-Solos-2620.html)
-- [Geoideias | Intemperismo e Erosão](https://geoideias.com.br/?p=299)
-
-:::
-
----
-
-### Solos brasileiros
-
-- Clima predominantemente **tropical úmido** e a estabilidade estrutural (sem grandes alterações desde muito tempo) faz com que a formação da cobertura dos nossos solos sejam marcados principalmente pelo **fator climático**.
-- O clima tropical também influencia a ação das chuvas no "envelhecimento" (**acidificação**) do solo.
-- **Latossolos** são o tipo mais representativo. Possuem coloração avermelhada, acidez elevada e ricos em argilominerais, óxidos de ferro e alumínio.
-
----
-
-## Degradação
-
-- A má utilização pode gerar a perda dos solos, que é recurso **não renovável**.
-- Principais problemas: **lixiviação** (perda de sais minerais pela água das chuvas); **laterização** (lixiviação do solo em área chovosa e rica em ferro e alumínio, formando uma crosta); **esgotamento dos solos** (plantio inadequado torna estéreis áreas cultiváveis); **salinização** (alta evaporação em áreas irrigadas, acumulando sais no solo, tornando-a improdutiva); **erosão** (desgate e perda de detritos com a ação das chuvas e ventos);
-
----
-
-- A **erosão** é o **principal problema ambiental** relacionados aos solos, podendo ser previnida com a proteção de cobertura vegetal.
-  - Alta erosão dos solos causam: **assoreamento** (acumulo de sedimentos) de rios e nascentes, formação de **voçorocas** (grandes buracos de erosão), **ravinas**, e **deslizamento de encostas**.
-- Algumas práticas de prevenção e até reversão dos processos de degradação são: **rotação de culturas**, **terraceamento**, **curvas de nível** e **calagem**.
-
----
-
-![](img/terraceamento.jpg)
-
-[Terraços agrícolas no Peru, criados pelo Império Inca](https://pt.wikipedia.org/wiki/Terraceamento)
-
----
-
-### Desertificação
-
-- Processo que vem tomando grandes proporções e que provoca impactos ambientais, sociais e econômicos.
-- **Desertificação** é a degradação do solo nas regiões mais secas em decorrência das variações climáticas e atividades humanas. - Agenda 21
-  - Principais causas segundo as Nações Unidas: **sobrepastoreio**, **salinização** por irrigação e **processos de uso intensivo** sem manejo adequeado.
-
-::: notes
-
-- Impactos ambientais: destruição da fauna e da flora, redução dos recursos hídricos (assoreamento), perda química e física dos solos.
-  - Gera perda na capacidade produtiva, provocando mudanças sociais como migrações (campo pra cidade por ex.).
-
-
-PARA IR ALÉM:
-
-- [Brasil Escola | Desertificação](https://brasilescola.uol.com.br/geografia/desertificacao.htm)
-
-:::
-
----
-
-- Ações de degradação induzidas pelo homem, segundo a FAO:
-  - das **populações animais e vegetais** (caça e extração de madeira); do **solo** (fisica - erosão e compactação pela mecanização - ou química - salinização); das **condições hidrológicas** da superfícia (perda da cobertura vegetal); das **condições geo-hidrológicas** das águas subterrâneas (modificação nas condições de recarga); da **infraestrutura econômica** e **qualidade de vida** dos assentamentos humanos.
-
-
-# Referências
-
-##
-
-- O conteúdo desta aula foi baseado principalmente nas [apostilas do Me Salva!](https://www.mesalva.com/), bem como outras referências citadas nos slides.
-  - [Geografia ENEM: Volume I](https://materiais.mesalva.com/apostila-geografia-enem-vol1), 1. Cartografia; [Geografia ENEM: Volume II](https://materiais.mesalva.com/apostila-geografia-enem-vol2), 4. Geomorfologia
-  - Também disponível no [canal do telegram do Me Salva](https://t.me/mesalva/10)!
