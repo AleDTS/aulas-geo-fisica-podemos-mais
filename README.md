@@ -1,26 +1,17 @@
 Aulas de geografia física para o Cursinho Popular Podemos + unidade Mauá
 
-## Aula 01 - 🗺️:mountain: Cartografia, Relevo, Solos
+## Aula 01 - 🔭 Astronomia
 
-- Página ([`html` :iphone: :arrow_forward:](aulas/aula01/aula01.html))
-- Slide ([`pdf`](aulas/aula01/aula01-slide.pdf), [`html` :arrow_forward:](aulas/aula01/aula01-slide.html))
+- [Página 📲](aulas/aula01/aula01.html)
+- [Slide](aulas/aula01/aula01-slide.html) ([pdf ⬇](aulas/aula01/aula01-slide.pdf))
 
-## Aula 02 - ⛏️💧 Recursos minerais, Hidrografia
+## Aula 02 - 🗺️ Cartografia️, ⛰️Geomorfologia
 
-- Página ([`html` :iphone: :arrow_forward:](aulas/aula02/aula02.html))
-- Slide ([`pdf`](aulas/aula02/aula02-slide.pdf), [`html` :arrow_forward:](aulas/aula02/aula02-slide.html))
-
-## Aula 03 - :seedling: Geografia agrária
-
-- Página ([`html` :iphone: :arrow_forward:](aulas/aula03/aula03.html))
-- Slide ([`pdf`](aulas/aula03/aula03-slide.pdf), [`html` :arrow_forward:](aulas/aula03/aula03-slide.html))
-
-## Aula 04 - :thermometer: Climatologia
-
-- Página ([`html` :iphone: :arrow_forward:](aulas/aula04/aula04.html))
-- Slide ([`pdf`](aulas/aula04/aula04-slide.pdf), [`html` :arrow_forward:](aulas/aula04/aula04-slide.html))
+- [Página 📲](aulas/aula02/aula02.html)
+- [Slide](aulas/aula02/aula02-slide.html) ([pdf ⬇](aulas/aula02/aula02-slide.pdf))
 
 ---
 
-:iphone: - bom pra ver no celular
-:arrow_forward: - conteúdo de mídia
+📲 - bom pra ver no celular
+
+⬇ - bom pra baixar, porém, sem conteúdos de mídia (gifs/vídeos)

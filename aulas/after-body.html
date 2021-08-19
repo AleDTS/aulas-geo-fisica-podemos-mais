@@ -1,0 +1,12 @@
+<script>
+
+  // Array.prototype.map.call(document.querySelectorAll("img,iframe,video,embed,object"), function (el) { el.classList.add("r-stretch") });
+
+  if (window.location.href.indexOf("print-pdf") != -1) {
+    Array.prototype.map.call(document.getElementsByTagName("details"), function (el) { el.setAttribute("open", "") })
+    Reveal.configure({
+      showNotes: "separate-page"
+    })
+  }
+
+</script>

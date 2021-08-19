@@ -1,6 +1,8 @@
 #!/bin/bash
 N=$1
 DIR=aula$N
+REVEAL_URL=https://unpkg.com/reveal.js@4
+# REVEAL_URL=$HOME/repos/reveal.js
 
 input_md=$DIR/aula$N.md
 output_slide=$DIR/aula$N-slide.html
@@ -14,7 +16,8 @@ pandoc \
     --resource-path=.:$DIR \
     --css css/slide.css \
     --css css/style.css \
-    -V revealjs-url=https://unpkg.com/reveal.js@4
+    --include-after-body=after-body.html \
+    -V revealjs-url=$REVEAL_URL
 
 pandoc \
     $input_md -o $output_html \
