@@ -34,5 +34,5 @@ pandoc \
     ../README.md -o ../index.html -f gfm \
     --self-contained \
     --css=https://pandoc.org/demo/pandoc.css \
-    --resource-path=.:assets \
+    --resource-path=.:.. \
     --from markdown-markdown_in_html_blocks-native_divs
