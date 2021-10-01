@@ -8,7 +8,7 @@
 
 - Posição da terra e dos planetas no sistema solar; Mecânica (Órbita, Lei da gravitação); Elementos celestes do sistema solar; Lua (Fases, maré, eclipse); Fusos horários
 
-## ⛰️Geomorfologia
+## ⛰️ Geomorfologia
 
 - Camadas da Terra; Teoria da deriva continental; Tectônica das Placas; Estrutura geológica da Terra (enfoque Brasil); Rochas; Relevo (agentes, formas); Solos (enfoque Brasil, degradação)
 
