@@ -1,5 +1,5 @@
 ---
-title: Aula 03 Geomorfologia / Recursos Minerais
+title: Aula 03 Geomorfologia
 date: 01/09/2021
 
 # revealjs
