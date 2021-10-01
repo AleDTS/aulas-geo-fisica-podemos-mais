@@ -7,7 +7,7 @@ touch: true
 theme: "serif"
 hash: true
 slideNumber: true 
-showNotes: false #TODO: true 
+showNotes: true
 width: 800
 height: 600
 ---
