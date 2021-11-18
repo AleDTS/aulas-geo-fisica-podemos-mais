@@ -1,6 +1,6 @@
 ---
 author: Alexandre Tomy
-title: Aula 06 e 07 - Climatologia
+title: Aula 06 - Climatologia
 # date: 17/12/2020
 
 # revealjs
