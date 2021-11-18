@@ -29,6 +29,19 @@ subtitle: "Turma 2021 do cursinho popular podemos+ unidade mauá"
 - [Página 📲](aulas/aula05/aula05.html)
 - [Slide](aulas/aula05/aula05-slide.html) ([pdf ⬇](aulas/aula05/aula05-slide.pdf))
 
+## Aula 06 - 🌡️ Climatologia
+
+- [Página 📲](aulas/aula06/aula06.html)
+- [Slide](aulas/aula06/aula06-slide.html)
+
+## Aula 07 - 🌡️ Climatologia - Problemas Climáticos
+
+- [Página 📲](aulas/aula07/aula07.html)
+
+## Aula 08 - 👨‍🌾 Geografia agrária (Parte 2)
+
+- [Página 📲](aulas/aula08/aula08.html)
+
 ---
 
 📲 - bom pra ver no celular
