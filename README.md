@@ -42,6 +42,15 @@ subtitle: "Turma 2021 do cursinho popular podemos+ unidade mauá"
 
 - [Página 📲](aulas/aula08/aula08.html)
 
+## Aula 09 - 🌲 Biogeografia
+
+- [Página 📲](aulas/aula09/aula09.html)
+
+## Lista de exercícios (geografia humana e física)
+
+- [Página 📲](aulas/lista/exercicios.html)
+- [pdf ⬇](aulas/lista/Lista_de_exerccios_de_geografia.pdf)
+
 ---
 
 📲 - bom pra ver no celular
